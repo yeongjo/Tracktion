@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EDIT appVersion="Tracktion 7.2.1" creationTime="1569248009235" lastPluginChange="1569330590944"
+      modifiedBy="syj24" mediaId="249572/72969a" lastSignificantChange="16d6364a556">
+  <TEMPOSEQUENCE>
+    <TEMPO startBeat="0" bpm="64.450000000000002842" curve="1"/>
+    <TIMESIG numerator="4" denominator="4" startBeat="0"/>
+  </TEMPOSEQUENCE>
+  <PITCHSEQUENCE>
+    <PITCH start="0" pitch="60"/>
+  </PITCHSEQUENCE>
+  <VIEWSTATE currentSidePanel="Files" cursorpos="16.573816910278228676" viewleft="-0.37350580407173339381"
+             viewright="31.90788652959862759" markIn="3.7238169123351432255"
+             markOut="18.619084561675716571" loopPlayback="0" scrollSmoothly="1"
+             scrollWhenPlaying="1" keepCursorOnScreen="1" videoFileId="249572/188b2a1"
+             videoActive="0"/>
+  <AUTOMAPXML/>
+  <CLICKTRACK level="0.60255956649780273438" active="0" onlyRecording="1"/>
+  <ID3VORBISMETADATA trackNumber="1" date="2019"/>
+  <MASTERVOLUME>
+    <FILTER type="volume" volume="0.87931025028228759766" id="0/17c3def"/>
+  </MASTERVOLUME>
+  <RACKFILTERS/>
+  <MASTERFILTERS/>
+  <AUXBUSNAMES/>
+  <TRACKCOMPS/>
+  <DEVICESEX>
+    <INPUTDEVICE name="USB MIDI" targetTrack="249572/dc5071" targetIndex="0" armed="1"/>
+  </DEVICESEX>
+  <ARADOCUMENT/>
+  <CONTROLLERMAPPINGS/>
+  <TEMPOTRACK name="Global" mediaId="249572/2c69376"/>
+  <MARKERTRACK name="Marker" trackType="2" mediaId="249572/2879bcd"/>
+  <MARKERTRACK name="Marker" trackType="1" mediaId="249572/23cd40a"/>
+  <MARKERTRACK name="Marker" trackType="0" mediaId="249572/782f49"/>
+  <TRACK mediaId="249572/dc5071" midiVProp="0.28125" midiVOffset="0.3807164634146341653"
+         inputDevice="USB MIDI" height="270">
+    <CLIP name="Track 1 Recording 1" type="midi" start="3.7238169123351432255"
+          length="14.895267649340572902" offset="3.7238169123351432255"
+          sync="0" mediaId="249572/21d7810" colour="ffff0000">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1">
+        <CONTROL b="0.86869072141564573908" type="64" val="16256"/>
+        <NOTE p="48" b="3.9292206744960203046" l="0.57254383074921433305" v="40"
+              c="0"/>
+        <NOTE p="55" b="3.9302948411624170078" l="0.65963941241653234471" v="42"
+              c="0"/>
+        <NOTE p="52" b="3.9369631604128367819" l="0.6185359952493763025" v="42"
+              c="0"/>
+        <NOTE p="60" b="3.9516810698297004656" l="0.64665026683227599946" v="36"
+              c="0"/>
+        <NOTE p="48" b="4.9443129008283941417" l="0.4608106253323693835" v="36"
+              c="0"/>
+        <NOTE p="55" b="4.9496837341613559857" l="0.47760672499946998926" v="42"
+              c="0"/>
+        <NOTE p="52" b="4.954953488411643292" l="0.44379120641616331966" v="38"
+              c="0"/>
+        <NOTE p="60" b="4.957238670577888584" l="0.47328041133332199308" v="40"
+              c="0"/>
+        <NOTE p="48" b="5.9716584685778943964" l="0.46368853266654586065" v="37"
+              c="0"/>
+        <NOTE p="55" b="5.9765355074944714886" l="0.4491121984163095604" v="54"
+              c="0"/>
+        <NOTE p="59" b="5.9862572529109563391" l="0.44429531283340129022" v="40"
+              c="0"/>
+        <NOTE p="52" b="5.9911408442442688482" l="0.38408408191643506058" v="48"
+              c="0"/>
+        <NOTE p="48" b="6.9637534310766495693" l="0.19780854358324528874" v="38"
+              c="0"/>
+        <NOTE p="55" b="6.9744895120768486407" l="0.20951137458246993361" v="48"
+              c="0"/>
+        <NOTE p="52" b="6.9798603454102998711" l="0.17655658574932253657" v="47"
+              c="0"/>
+        <NOTE p="59" b="6.9841243574101827818" l="0.24758027091625933735" v="39"
+              c="0"/>
+        <NOTE p="55" b="8.0283240298249261002" l="0.52090369791654644871" v="38"
+              c="0"/>
+        <NOTE p="59" b="8.0293981964918117455" l="0.60366856183406447656" v="38"
+              c="0"/>
+        <NOTE p="52" b="8.0390895429921833681" l="0.46507710791632383973" v="36"
+              c="0"/>
+        <NOTE p="64" b="8.0423120429918633079" l="0.53508538333349164873" v="47"
+              c="0"/>
+        <NOTE p="59" b="9.0466908532413423671" l="0.51329859791620791043" v="60"
+              c="0"/>
+        <NOTE p="55" b="9.0505343289914943483" l="0.47515794724931481596" v="54"
+              c="0"/>
+        <NOTE p="52" b="9.0584700574913146198" l="0.45820834916712094298" v="40"
+              c="0"/>
+        <NOTE p="64" b="9.0627667241578802049" l="0.47156335591616560521" v="45"
+              c="0"/>
+        <NOTE p="59" b="10.076760615073490968" l="0.52949004916690967093" v="42"
+              c="0"/>
+        <NOTE p="52" b="10.078718820907374365" l="0.51141160933240037423" v="32"
+              c="0"/>
+        <NOTE p="62" b="10.079983115073657629" l="0.58285196374990988488" v="36"
+              c="0"/>
+        <NOTE p="55" b="10.083205615073337569" l="0.45843252775073040084" v="50"
+              c="0"/>
+        <NOTE p="52" b="11.070337390489871865" l="0.29209878616607554136" v="36"
+              c="0"/>
+        <NOTE p="62" b="11.076787868739913279" l="0.29535565949949038611" v="42"
+              c="0"/>
+        <NOTE p="59" b="11.083232868739761656" l="0.26848398391609151759" v="40"
+              c="0"/>
+        <NOTE p="57" b="12.070670459405876684" l="0.59997901416601351343" v="48"
+              c="0"/>
+        <NOTE p="50" b="12.072355182405873464" l="0.49437253316549778503" v="35"
+              c="0"/>
+        <NOTE p="53" b="12.081903342489072273" l="0.55023822283213874584" v="38"
+              c="0"/>
+        <NOTE p="62" b="12.098390296988503323" l="0.53697376833287613351" v="41"
+              c="0"/>
+        <NOTE p="57" b="13.048755066070890862" l="0.52167935366662554486" v="40"
+              c="0"/>
+        <NOTE p="62" b="13.055216608237827813" l="0.49001775408281567081" v="40"
+              c="0"/>
+        <NOTE p="53" b="13.056506145321018053" l="0.48393732624966823153" v="42"
+              c="0"/>
+        <NOTE p="50" b="13.06813571815456676" l="0.47069875916587022857" v="29"
+              c="0"/>
+        <CONTROL b="13.597247016154277333" type="64" val="16256"/>
+        <NOTE p="50" b="14.003967656736303837" l="0.44133351308366108867" v="26"
+              c="0"/>
+        <NOTE p="60" b="14.013617862653676482" l="0.48677420041588703725" v="30"
+              c="0"/>
+        <NOTE p="57" b="14.015362309320822831" l="0.48604688216605218543" v="35"
+              c="0"/>
+        <NOTE p="53" b="14.020121619570641514" l="0.44246751083225177581" v="37"
+              c="0"/>
+        <NOTE p="50" b="14.970410337652781507" l="0.15351313274903155559" v="42"
+              c="0"/>
+        <NOTE p="53" b="14.984484928652367586" l="0.15152216483342328956" v="48"
+              c="0"/>
+        <NOTE p="60" b="14.986633261985650378" l="0.19723676466703388144" v="43"
+              c="0"/>
+        <NOTE p="57" b="14.989855761985818816" l="0.14829966483325485171" v="48"
+              c="0"/>
+        <NOTE p="55" b="15.96815530940208383" l="0.50201855891532964904" v="34"
+              c="0"/>
+        <NOTE p="59" b="15.969602963818502417" l="0.51029297216540570048" v="45"
+              c="0"/>
+        <NOTE p="62" b="15.971546131318847372" l="0.57135300958210955002" v="41"
+              c="0"/>
+        <NOTE p="67" b="15.977917765736023625" l="0.57708991891531979945" v="42"
+              c="0"/>
+        <NOTE p="62" b="16.924300276734250303" l="0.49331598283273336847" v="25"
+              c="0"/>
+        <NOTE p="59" b="16.948068792234298741" l="0.43938282641606107859" v="23"
+              c="0"/>
+        <NOTE p="67" b="16.949294738650692693" l="0.44237556216591400471" v="40"
+              c="0"/>
+        <NOTE p="55" b="16.967188421818512722" l="0.44061081374805155519" v="16"
+              c="0"/>
+        <NOTE p="55" b="17.900882876150358669" l="0.50069013699873110568" v="33"
+              c="0"/>
+        <NOTE p="59" b="17.902025574649744755" l="0.53600959633345368616" v="42"
+              c="0"/>
+        <NOTE p="62" b="17.907478259483159633" l="0.56042980874961045856" v="43"
+              c="0"/>
+        <NOTE p="65" b="17.917107948816799023" l="0.51767099333251920257" v="39"
+              c="0"/>
+        <NOTE p="62" b="18.990127190648951938" l="0.78345226649924271101" v="39"
+              c="0"/>
+        <NOTE p="64" b="18.996467029731995524" l="0.61998375708279240826" v="39"
+              c="0"/>
+        <NOTE p="59" b="18.997541196398390895" l="0.60974211500046493484" v="56"
+              c="0"/>
+        <NOTE p="55" b="18.999689529731675464" l="0.60433851958382334146" v="32"
+              c="0"/>
+        <CONTROL b="13" type="64" val="16257" metadata="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <FILTER type="vst" uid="504c4751" filename="C:\Program Files\Plogue\sforzando\VST\sforzando VST_x86.dll"
+            name="sforzando VST_x86" manufacturer="Plogue Art et Technologie, Inc"
+            id="0/301295c" windowX="2210" windowY="24" windowLocked="0" programNum="0"
+            state="626.CMlaKA....fQBMDZ....A.ESGEE...P...................................................................................................................................................................................P.ROTQGAk.E...3wYiT0zaaBDD8dk5+gU68XXI.wHYRjaiUDGrZjb54ngkMtq59gKrfR+22g0FLUJQfufm29lYm4AuYyCuqUjNQcizZxorUgTxC2+0urYasDN.chImkkDQImpsUsbWwiHPHKlhbI3uMGDNmzbrg7mVPIc+EOlRZb0BPiv4zawb0v6G7HaUJKe+2xoILDdewiE+n0s2VI7YAsNqFb3kdPYc4zvoPJQmPkSkFr1sZgwQIJYm3bxHyFNV0z9mfBPDF4FhnumV0vUWf+NllnNmlh7Oprkf5kViuKQffwIBubhrxCZ.ceuQ103.mf7TMXpHOKAiM3i.ojRv76BL2njPL8qZXXeH+WfwzOE2fS6IqBEqzXJwcsINU9JVsihKTbXPi+.8j+Z4N7Ez+M05VmG3xL3mi8fzLLGcfp8rHG7gTXiTB+LJQyS414oDOOkj4ojNOk6lmx54ojMOEV3B3r.8ks.Als.Els.Il84Z7yPMnubYS55Urnjr0wQIr3rL1coS7KA8Flgfcu8lf6lZgF9D8rUZqtTJLbwUmheaxDmx53D+1F9n0d7ld5mECUE3Nz8WbcQgOd2XbiPg8gn5En7rWpuHaBF1tgA+CvfGRYE"/>
+    <FILTER type="volume" id="0/17b241d" volume="0.86150783300399780273"/>
+    <FILTER type="level" id="0/e85db"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="249572/3d804dd" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/37e776d"/>
+    <FILTER type="level" id="0/3de5aea"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="249572/1b06cc6" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/13d04e6"/>
+    <FILTER type="level" id="0/28326cf"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="249572/18ae558" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/1da522c"/>
+    <FILTER type="level" id="0/9fa412"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="249572/36b07f8" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/3e77ea9"/>
+    <FILTER type="level" id="0/153459"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="249572/29ef91d" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/2427c93"/>
+    <FILTER type="level" id="0/3ce28d6"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="249572/35fc25a" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/3320705"/>
+    <FILTER type="level" id="0/13e494c"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="249572/ab4842" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/301dafa"/>
+    <FILTER type="level" id="0/6d5e62"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+</EDIT>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EDIT appVersion="Tracktion 7.2.1" creationTime="1582702882385" modifiedBy="syj24"
+      mediaId="785be2/268a882" lastSignificantChange="1709b1dfda8">
+  <TEMPOSEQUENCE>
+    <TEMPO startBeat="0" bpm="120" curve="1"/>
+    <TIMESIG numerator="4" denominator="4" startBeat="0"/>
+  </TEMPOSEQUENCE>
+  <PITCHSEQUENCE>
+    <PITCH start="0" pitch="60"/>
+  </PITCHSEQUENCE>
+  <VIEWSTATE currentSidePanel="Files"/>
+  <AUTOMAPXML/>
+  <CLICKTRACK level="0.60000002384185791016"/>
+  <ID3VORBISMETADATA trackNumber="1" date="2020"/>
+  <MASTERVOLUME>
+    <FILTER type="volume" volume="0.63762813806533813477" id="0/304ed97"/>
+  </MASTERVOLUME>
+  <RACKFILTERS/>
+  <MASTERFILTERS/>
+  <AUXBUSNAMES/>
+  <TRACKCOMPS/>
+  <DEVICESEX>
+    <INPUTDEVICE name="USB MIDI" targetIndex="-1" armed="0"/>
+  </DEVICESEX>
+  <ARADOCUMENT/>
+  <CONTROLLERMAPPINGS/>
+  <TEMPOTRACK name="Global" mediaId="785be2/355f0c"/>
+  <MARKERTRACK name="Marker" trackType="2" mediaId="785be2/29090bf"/>
+  <MARKERTRACK name="Marker" trackType="1" mediaId="785be2/3ece7f8"/>
+  <MARKERTRACK name="Marker" trackType="0" mediaId="785be2/2b002f"/>
+  <TRACK mediaId="785be2/54432b" midiVProp="0.28125" midiVOffset="0.359375">
+    <FILTER type="volume" id="0/2751931"/>
+    <FILTER type="level" id="0/2c79d3d"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="785be2/3f18313" midiVProp="0.28125" midiVOffset="0.359375">
+    <FILTER type="volume" id="0/240fbb7"/>
+    <FILTER type="level" id="0/24db8df"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="785be2/1ad816d" midiVProp="0.28125" midiVOffset="0.359375">
+    <FILTER type="volume" id="0/1e86930"/>
+    <FILTER type="level" id="0/60058e"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="785be2/2f7deef" midiVProp="0.28125" midiVOffset="0.359375">
+    <FILTER type="volume" id="0/1d14157"/>
+    <FILTER type="level" id="0/cd3e2e"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="785be2/2698057" midiVProp="0.28125" midiVOffset="0.359375">
+    <FILTER type="volume" id="0/2654d03"/>
+    <FILTER type="level" id="0/396f0c4"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="785be2/3a74f5c" midiVProp="0.28125" midiVOffset="0.359375">
+    <FILTER type="volume" id="0/27174f2"/>
+    <FILTER type="level" id="0/37e5043"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="785be2/b8cea2" midiVProp="0.28125" midiVOffset="0.359375">
+    <FILTER type="volume" id="0/2b2ca7c"/>
+    <FILTER type="level" id="0/3135068"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="785be2/3cb3f8" midiVProp="0.28125" midiVOffset="0.359375">
+    <FILTER type="volume" id="0/139e1d1"/>
+    <FILTER type="level" id="0/36cdf47"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+</EDIT>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EDIT appVersion="Tracktion 7.2.1" creationTime="1569517814507" lastPluginChange="1569586996224"
+      modifiedBy="syj24" mediaId="249572/3fb8968" lastSignificantChange="16d72aced69">
+  <TEMPOSEQUENCE>
+    <TEMPO startBeat="0" bpm="120" curve="1"/>
+    <TIMESIG numerator="4" denominator="4" startBeat="0"/>
+  </TEMPOSEQUENCE>
+  <PITCHSEQUENCE>
+    <PITCH start="0" pitch="60"/>
+  </PITCHSEQUENCE>
+  <VIEWSTATE currentSidePanel="Files" viewleft="-1" viewright="21.23816708704577394"
+             cursorpos="17.560000000339641701" scrollWhenPlaying="0" markOut="2"
+             markIn="18" loopPlayback="1" tracktop="-0.5"/>
+  <AUTOMAPXML/>
+  <CLICKTRACK level="0.60255956649780273438"/>
+  <ID3VORBISMETADATA trackNumber="1" date="2019"/>
+  <MASTERVOLUME>
+    <FILTER type="volume" volume="1" id="0/ab15f6"/>
+  </MASTERVOLUME>
+  <RACKFILTERS/>
+  <MASTERFILTERS/>
+  <AUXBUSNAMES/>
+  <TRACKCOMPS/>
+  <DEVICESEX>
+    <INPUTDEVICE name="USB MIDI" targetTrack="249572/2740c27" targetIndex="0"
+                 armed="1"/>
+  </DEVICESEX>
+  <ARADOCUMENT/>
+  <CONTROLLERMAPPINGS/>
+  <TEMPOTRACK name="Global" mediaId="249572/1f7df4"/>
+  <MARKERTRACK name="Marker" trackType="2" mediaId="249572/2710631"/>
+  <MARKERTRACK name="Marker" trackType="1" mediaId="249572/2471914"/>
+  <MARKERTRACK name="Marker" trackType="0" mediaId="249572/33c3c5b"/>
+  <TRACK mediaId="249572/2740c27" midiVProp="0.4863148329941288095" midiVOffset="0.35788662005553845136"
+         inputDevice="USB MIDI" height="592">
+    <CLIP name="Track 1 Recording 1" type="midi" start="1" length="29"
+          offset="0" sync="0" mediaId="249572/35eafe0" colour="ffff0000"
+          speed="1">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1">
+        <CONTROL b="1.3130313730081462076" type="64" val="0"/>
+        <CONTROL b="1.9815123597562704916" type="64" val="16256"/>
+        <NOTE p="55" b="2.0184161883756308598" l="6.4208717676073421288" v="26"
+              c="0"/>
+        <NOTE p="58" b="2.0234115139676909223" l="6.840868294348688039" v="36"
+              c="0"/>
+        <NOTE p="70" b="2" l="0.77931233155528367718" v="40" c="0"/>
+        <NOTE p="62" b="2.1108710008414028891" l="7.1069757935774457991" v="16"
+              c="0"/>
+        <NOTE p="69" b="3" l="0.56361250633661441611" v="25" c="0"/>
+        <NOTE p="70" b="3.5" l="0.47605556242874769168" v="41" c="0"/>
+        <NOTE p="77" b="4" l="0.42592586973892460067" v="54" c="0"/>
+        <NOTE p="70" b="4.5" l="0.80714252053641910578" v="42" c="0"/>
+        <NOTE p="70" b="6" l="0.50496121222361800562" v="39" c="0"/>
+        <NOTE p="69" b="6.5" l="0.51857543280088336246" v="34" c="0"/>
+        <NOTE p="70" b="7" l="0.52834631515850993821" v="43" c="0"/>
+        <NOTE p="77" b="7.5" l="0.47381339723061621783" v="60" c="0"/>
+        <NOTE p="70" b="8" l="0.96046986179025850561" v="52" c="0"/>
+        <NOTE p="62" b="10" l="8.0881372427770870104" v="5" c="0"/>
+        <NOTE p="70" b="10" l="0.74363718071986539826" v="62" c="0"/>
+        <NOTE p="57" b="10.015283744029119362" l="8.0707249788926489487" v="42"
+              c="0"/>
+        <NOTE p="53" b="10.020235900750494196" l="8.0707957824042022565" v="35"
+              c="0"/>
+        <CONTROL b="11.907230594837137971" type="64" val="0"/>
+        <CONTROL b="12.198835855682050422" type="64" val="16256"/>
+        <NOTE p="69" b="11" l="0.50224075558161551669" v="25" c="0"/>
+        <NOTE p="70" b="11.5" l="0.44978403148692436275" v="42" c="0"/>
+        <NOTE p="77" b="14" l="0.40767148576534495419" v="58" c="0"/>
+        <NOTE p="70" b="12" l="0.70439144068743964056" v="47" c="0"/>
+        <NOTE p="70" b="14.5" l="0.46834288697402115531" v="39" c="0"/>
+        <NOTE p="69" b="15" l="0.47158905549066787444" v="41" c="0"/>
+        <NOTE p="70" b="15.5" l="0.48539279384299760522" v="40" c="0"/>
+        <NOTE p="75" b="16" l="1.062072224327916814" v="32" c="0"/>
+        <NOTE p="74" b="17" l="0.96553923312644585053" v="56" c="0"/>
+        <CONTROL b="24.32950642229758742" type="64" val="0"/>
+        <CONTROL b="24.588873363427133256" type="64" val="16256"/>
+        <CONTROL b="25.18650457853386726" type="64" val="0"/>
+        <CONTROL b="25.393133543854226275" type="64" val="16256"/>
+        <CONTROL b="28.035609619420000627" type="64" val="0"/>
+        <NOTE p="55" b="17.963265740036447937" l="7.5842086889814694928" v="31"
+              c="0"/>
+        <NOTE p="58" b="17.98049012120016954" l="7.6113264279576355875" v="23"
+              c="0"/>
+        <NOTE p="70" b="18" l="0.68870380606447412219" v="40" c="0"/>
+        <NOTE p="51" b="18" l="7.5552121229409046066" v="21" c="0"/>
+        <CONTROL b="28.329854395316026228" type="64" val="16256"/>
+        <NOTE p="69" b="18.5" l="0.47263213982985519124" v="18" c="0"/>
+        <NOTE p="70" b="19" l="0.40197548344476530247" v="39" c="0"/>
+        <NOTE p="77" b="19.5" l="0.35723061739660622038" v="52" c="0"/>
+        <NOTE p="70" b="20" l="0.67960580217960853133" v="39" c="0"/>
+        <NOTE p="70" b="22" l="0.42390314632786285642" v="39" c="0"/>
+        <NOTE p="69" b="22.5" l="0.51042681703163950147" v="40" c="0"/>
+        <NOTE p="70" b="23" l="0.55490612916241843777" v="45" c="0"/>
+        <NOTE p="77" b="23.5" l="0.69248893145720913367" v="64" c="0"/>
+        <NOTE p="70" b="24" l="0.97089220182398616732" v="52" c="0"/>
+        <NOTE p="72" b="25" l="0.70656623624036640763" v="68" c="0"/>
+        <CONTROL b="40.69886866089647981" type="64" val="0"/>
+        <CONTROL b="40.981190978300261918" type="64" val="16256"/>
+        <CONTROL b="41.502859362837945412" type="64" val="0"/>
+        <CONTROL b="42.281067290638162603" type="64" val="16256"/>
+        <CONTROL b="43.616014716613733526" type="64" val="0"/>
+        <CONTROL b="43.917963665129860829" type="64" val="16256"/>
+        <CONTROL b="44.807256881897870926" type="64" val="0"/>
+        <CONTROL b="45.056137056655700235" type="64" val="16256"/>
+        <CONTROL b="45.960494902800370198" type="64" val="0"/>
+        <NOTE p="48" b="25.958238201299188574" l="8.1244405694762846792" v="37"
+              c="0"/>
+        <NOTE p="53" b="25.975105294606095185" l="8.0939801861151750018" v="56"
+              c="0"/>
+        <NOTE p="57" b="26" l="8.2173872455695686767" v="41" c="0"/>
+        <CONTROL b="46.252728728514192369" type="64" val="16256"/>
+        <CONTROL b="58.353362588104772612" type="64" val="0"/>
+        <NOTE p="72" b="26" l="2.0270268000313080847" v="47" c="0"/>
+        <NOTE p="69" b="28" l="1.8968445999198593199" v="44" c="0"/>
+        <NOTE p="75" b="30" l="1.9571003999444656074" v="42" c="0"/>
+        <NOTE p="74" b="32" l="2.0090594000066630542" v="54" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <FILTER type="vst" uid="72627631" filename="G:\ProgramFiles\vst\retroboy\Retro Boy.dll"
+            name="Retro Boy" manufacturer="SBAudio" id="0/16f5d3" enabled="0"
+            windowX="2170" windowY="3" windowLocked="0" programNum="0" state="228.CMlaKA....fQBMDZ....AHmX1EC...P.....A...............................................................................................................................................................................DA...7C.....yLyr9zLy75ilYlpOyLyJ+....7SyLS1O....+PTYlEVcrQG.rbCvN.67pAA7SZBDrD0BP.87pAA7QZBD"/>
+    <FILTER type="vst" uid="504c4751" filename="C:\Program Files\Plogue\sforzando\VST\sforzando VST_x86.dll"
+            name="sforzando VST_x86" manufacturer="Plogue Art et Technologie, Inc"
+            id="0/1910c94" windowX="2170" windowY="3" windowLocked="0" programNum="0"
+            state="634.CMlaKA....fQBMDZ....A.ESGEE...P...................................................................................................................................................................................P.ZOTQGA0IE...3wYiT0zabBCD8dk5+AKeOKXVXCqDznsMqh3vpFoM8b0fwYiUrMaACJ8eeG7t7QiRDvEXd9M1y6gmI4t2zJRqnpVVZRorU9Txce6qeIYWkDNBshIqsMJfRNWUVzvsY2i.9rPJxkfOIGEVqzbpl7mFPIs+EWlRpsUBPivoz0XtZ3siNjcJUI+v2SoQLD9P18Y+rwdnrP3xBZrkZvhG5QUoMk5OERIZEpTpzf6ciVXrThR1JtjLxrlmRiC5dCJ.QXjaHhtZZUMWcE9GXZhpT5Fj+IUYNndpw3pRDvaPQ3gSjENPCn6pMx9ZKXEjGp.SA4QIXJ89HPJIGLulg4FD4ioO5g9cg7W.ioSE2fp8boBMqMgThcrHNm+ab2NItRwhA0tEzS9rjaweP+mp0MVGvUM3zwAPZ50QKnZtXxdeHE1.E+OiRv7TVOOkv4oDMOkMyS414oDOOksySg4u.NKveYKvfYKvgYKvhYetG+HTA524fu+ZyHG15IJaUXn+1vv3X+fvaYrMSRKwqqqpOX+yOK31o8Y82iuzusSmKEFtXrcxMxYR6TbXjajDen+e3jd3WY86Jvs3HhrwoIt38Cw0BEVGhhmf7KMbcaRhW+HPL3e.IIrVdC"
+            enabled="1"/>
+    <FILTER type="volume" id="0/30070c9" volume="0.90892165899276733398"/>
+    <FILTER type="level" id="0/21f658a"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <FOLDERTRACK mediaId="249572/2ead353">
+    <FILTER type="vca" id="0/3ca9bf9"/>
+  </FOLDERTRACK>
+  <TRACK mediaId="249572/20d8802" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/2e82654"/>
+    <FILTER type="level" id="0/2851997"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="249572/38bbaa3" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/13218f1"/>
+    <FILTER type="level" id="0/2ed63e7"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="249572/31ebd4a" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/31b4e50"/>
+    <FILTER type="level" id="0/6bed82"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="249572/15ac2c9" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/1b74725"/>
+    <FILTER type="level" id="0/30033f"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="249572/2bc5211" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/325d403"/>
+    <FILTER type="level" id="0/2225c5c"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="249572/1a13f7e" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/333bf74"/>
+    <FILTER type="level" id="0/357d09f"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="249572/3aeedc6" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/2f01601"/>
+    <FILTER type="level" id="0/dd67fc"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+</EDIT>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EDIT appVersion="Tracktion 7.2.1" creationTime="1570192611216" lastPluginChange="1598964388907"
+      modifiedBy="syj24" mediaId="9117eb/1968030" lastSignificantChange="17449b5c1f6">
+  <TEMPOSEQUENCE>
+    <TEMPO startBeat="0" bpm="136.99000000000000909" curve="1"/>
+    <TIMESIG numerator="4" denominator="4" startBeat="0"/>
+  </TEMPOSEQUENCE>
+  <PITCHSEQUENCE>
+    <PITCH start="0" pitch="60"/>
+  </PITCHSEQUENCE>
+  <VIEWSTATE currentSidePanel="Files" viewleft="16.581216435428590472" viewright="20.592074694445614114"
+             cursorpos="19.593699238729652023" markIn="7.0078107891086940384"
+             markOut="22.775385064603256069" loopPlayback="1" sidePanelsWidth="0.21609193086624145508"/>
+  <AUTOMAPXML/>
+  <CLICKTRACK level="0.60255956649780273438"/>
+  <ID3VORBISMETADATA trackNumber="1" date="2019"/>
+  <MASTERVOLUME>
+    <FILTER type="volume" volume="1" id="0/29b9f77"/>
+  </MASTERVOLUME>
+  <RACKFILTERS/>
+  <MASTERFILTERS/>
+  <AUXBUSNAMES/>
+  <TRACKCOMPS/>
+  <DEVICESEX>
+    <INPUTDEVICE name="VM-VAIO 1" targetIndex="-1" armed="0"/>
+    <INPUTDEVICE name="VM-VAIO 2" targetIndex="-1" armed="0"/>
+    <INPUTDEVICE name="USB MIDI" targetTrack="9117eb/1e54f4b" targetIndex="0"
+                 armed="0"/>
+  </DEVICESEX>
+  <ARADOCUMENT/>
+  <CONTROLLERMAPPINGS/>
+  <TEMPOTRACK name="Global" mediaId="9117eb/1f38c5a" height="53"/>
+  <MARKERTRACK name="Marker" trackType="2" mediaId="9117eb/3dd8ea2"/>
+  <MARKERTRACK name="Marker" trackType="1" mediaId="9117eb/31822e3"/>
+  <MARKERTRACK name="Marker" trackType="0" mediaId="9117eb/1671c01"/>
+  <TRACK mediaId="9117eb/1e54f4b" midiVProp="0.48631483299412864296" midiVOffset="0.33093131318380947237"
+         inputDevice="USB MIDI" height="434">
+    <CLIP name="Track 1 Recording 1" type="midi" start="7.0078107891086931502"
+          length="15.767574275494560254" offset="8.9418697162891920271"
+          source="9117eb/1e54f4b" sync="0" mediaId="9117eb/224d21e" colour="ffff0000"
+          speed="1">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1">
+        <NOTE p="51" b="20.415778873907608926" l="0.65312118197242974293" v="64"
+              c="0"/>
+        <NOTE p="73" b="20.415778873907608926" l="0.57138207440576394003" v="64"
+              c="0"/>
+        <NOTE p="85" b="20.415778873907608926" l="0.57147576015438028563" v="58"
+              c="0"/>
+        <NOTE p="58" b="21.415778873907608926" l="0.8302323736998881154" v="38"
+              c="0"/>
+        <NOTE p="73" b="22.415778873907608926" l="0.42859570485112807869" v="66"
+              c="0"/>
+        <NOTE p="82" b="22.415778873907608926" l="0.512507051288413229" v="62"
+              c="0"/>
+        <NOTE p="63" b="22.415778873907608926" l="0.3673549466433936872" v="54"
+              c="0"/>
+        <NOTE p="58" b="23.415778873907608926" l="0.17485819710918781844" v="48"
+              c="0"/>
+        <NOTE p="47" b="24.415778873907608926" l="0.54890838501868932653" v="58"
+              c="0"/>
+        <NOTE p="80" b="24.415778873907608926" l="0.32104674280178396861" v="74"
+              c="0"/>
+        <NOTE p="73" b="24.415778873907608926" l="0.27209696399637162134" v="58"
+              c="0"/>
+        <NOTE p="78" b="24.915778873907608926" l="0.41304273766200871876" v="78"
+              c="0"/>
+        <NOTE p="54" b="25.415778873907608926" l="0.57382402840251323095" v="64"
+              c="0"/>
+        <NOTE p="59" b="26.415778873907608926" l="0.37658514711959656385" v="52"
+              c="0"/>
+        <NOTE p="78" b="27.415778873907608926" l="0.31012974530334974643" v="72"
+              c="0"/>
+        <NOTE p="54" b="27.415778873907608926" l="0.36254317441065719851" v="70"
+              c="0"/>
+        <NOTE p="80" b="27.915778873907608926" l="0.47409181439557079862" v="64"
+              c="0"/>
+        <NOTE p="49" b="28.415778873907608926" l="0.90026847628358774855" v="50"
+              c="0"/>
+        <NOTE p="56" b="29.415778873907608926" l="0.71909726667107265463" v="60"
+              c="0"/>
+        <NOTE p="82" b="29.415778873907608926" l="0.33398081924590766745" v="70"
+              c="0"/>
+        <NOTE p="80" b="30.415778873907608926" l="0.37901666637973829843" v="70"
+              c="0"/>
+        <NOTE p="61" b="30.415778873907608926" l="0.48068043991622350086" v="43"
+              c="0"/>
+        <NOTE p="78" b="30.915778873907608926" l="0.3332406338369041654" v="72"
+              c="0"/>
+        <NOTE p="56" b="31.415778873907608926" l="0.29710016838564895503" v="60"
+              c="0"/>
+        <NOTE p="80" b="31.914199091332999814" l="0.38545602988316168824" v="62"
+              c="0"/>
+        <NOTE p="54" b="32.415778873907612478" l="0.71354281375672268251" v="50"
+              c="0"/>
+        <NOTE p="61" b="33.415778873907612478" l="0.85784970515328695662" v="62"
+              c="0"/>
+        <NOTE p="82" b="33.415778873907612478" l="0.83743392627522017513" v="62"
+              c="0"/>
+        <NOTE p="80" b="34.415778873907612478" l="0.36080919425060864469" v="68"
+              c="0"/>
+        <NOTE p="68" b="34.415778873907612478" l="0.56379579781567235042" v="50"
+              c="0"/>
+        <NOTE p="78" b="34.915778873907612478" l="0.42638127337140679929" v="70"
+              c="0"/>
+        <NOTE p="61" b="35.415778873907612478" l="0.41950728062383918493" v="64"
+              c="0"/>
+        <NOTE p="78" b="35.915778873907612478" l="0.36724946512476491778" v="56"
+              c="0"/>
+        <NOTE p="73" b="36.415778873907612478" l="1.0023870680104138842" v="56"
+              c="0"/>
+        <NOTE p="51" b="36.415778873907612478" l="0.80093051365315315326" v="70"
+              c="0"/>
+        <NOTE p="85" b="36.415778873907612478" l="0.86890983993816639508" v="68"
+              c="0"/>
+        <NOTE p="58" b="37.415778873907612478" l="0.9234653379330970413" v="39"
+              c="0"/>
+        <NOTE p="82" b="38.415778873907612478" l="0.85055877683516201149" v="64"
+              c="0"/>
+        <NOTE p="63" b="38.415778873907612478" l="0.5850182267995189811" v="64"
+              c="0"/>
+        <NOTE p="58" b="39.415778873907612478" l="0.20196762935148529494" v="56"
+              c="0"/>
+        <NOTE p="47" b="40.415778873907612478" l="0.78009212816117434741" v="72"
+              c="0"/>
+        <NOTE p="80" b="40.415778873907612478" l="0.58274209429976930874" v="91"
+              c="0"/>
+        <NOTE p="78" b="40.915778873907612478" l="0.36967440597081924203" v="70"
+              c="0"/>
+        <NOTE p="54" b="41.415778873907612478" l="0.5839919936530874045" v="72"
+              c="0"/>
+        <NOTE p="59" b="42.415778873907612478" l="0.42403096354221958553" v="58"
+              c="0"/>
+        <NOTE p="78" b="43.415778873907612478" l="0.30301439268356128443" v="74"
+              c="0"/>
+        <NOTE p="54" b="43.415778873907612478" l="0.47187216553929323126" v="72"
+              c="0"/>
+        <NOTE p="80" b="43.915778873907612478" l="0.46959762093316836928" v="56"
+              c="0"/>
+        <NOTE p="49" b="44.415778873907612478" l="0.98404734699824492061" v="40"
+              c="0"/>
+        <NOTE p="56" b="45.415778873907612478" l="0.98449604045367555827" v="60"
+              c="0"/>
+        <NOTE p="82" b="45.415778873907612478" l="0.37917681682513088015" v="62"
+              c="0"/>
+        <NOTE p="80" b="46.415778873907612478" l="0.33714254285762251806" v="72"
+              c="0"/>
+        <NOTE p="61" b="46.415778873907612478" l="0.47293832288243642381" v="50"
+              c="0"/>
+        <NOTE p="78" b="46.915778873907612478" l="0.39919947853288495487" v="58"
+              c="0"/>
+        <NOTE p="56" b="47.415778873907612478" l="0.400219133269355265" v="62"
+              c="0"/>
+        <NOTE p="54" b="48.415778873907612478" l="0.74621350416704623765" v="64"
+              c="0"/>
+        <NOTE p="61" b="49.415778873907612478" l="0.94115243453758989922" v="60"
+              c="0"/>
+        <NOTE p="85" b="50.415778873907612478" l="0.39135641681350230581" v="74"
+              c="0"/>
+        <NOTE p="66" b="50.415778873907612478" l="0.59107808365236025328" v="47"
+              c="0"/>
+        <NOTE p="82" b="50.915778873907612478" l="0.40175077036253059592" v="50"
+              c="0"/>
+        <NOTE p="61" b="51.415778873907612478" l="0.24488681391631952899" v="68"
+              c="0"/>
+        <NOTE p="80" b="51.415778873907612478" l="0.37554258134948820258" v="78"
+              c="0"/>
+        <NOTE p="78" b="51.915778873907612478" l="0.36946548450223720694" v="91"
+              c="0"/>
+        <NOTE p="54" b="52.415778873907612478" l="0.49665386361047791919" v="54"
+              c="0"/>
+        <NOTE p="78" b="52.415778873907612478" l="0.47061217660494836235" v="72"
+              c="0"/>
+        <NOTE p="82" b="32.415778873907612478" l="0.38541666666666668517" v="62"
+              c="0"/>
+        <NOTE p="78" b="47.969211099090017569" l="0.38541666666666668517" v="62"
+              c="0"/>
+        <NOTE p="78" b="49.909221708653063843" l="0.39919947853288495487" v="58"
+              c="0"/>
+        <NOTE p="80" b="49.409221708653063843" l="0.33714254285762251806" v="72"
+              c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <FILTER type="vst" uid="504c4751" filename="E:\ProgramFiles\vst\Plogue\sforzando\VST\sforzando VST_x64.dll"
+            name="sforzando VST_x64" manufacturer="Plogue Art et Technologie, Inc"
+            id="0/2b2c34b" windowX="340" windowY="111" windowLocked="0" programNum="0"
+            state="628.CMlaKA....fQBMDZ....A.ESGEE...P...................................................................................................................................................................................P.TOTQGA0.E...3wYiT0ziaBCD8dk5+AKeeC1jP1fTnqR6FshCQckx1yUCFuoV0ejBFz1+8cvIPnR6JHWHyyuY7LO3Mae3MilzJqpUNaFkufQIO7kO+os6pTvQnUN5rz02SImqbkMBe9iH.iuhhbI3usGkduxdpl7mFPq7+EOlRp8URvfvYzkwThAd6X.YmV6DG9ZFMgivGxeL+6M9CtRYHKnw6LfGuziZmOixFCoksRcFUYwZ2XjVOknUsxKIiLqEYz33tmfFPDN4NhrqmVTKzWg+FllrJitF4eR6J.8KM1PWh.QCSDd4DUY.zBltdiru1CdI4oJvVRdVAVWz6ARIEf824XtwILL8aZHqKT7KvZ6lh6vo8rSih05UTh+VSbt3mX0NIuRwiA0gCLi9qS3wWP+2TaZ7AfqyPXNN.Ja+bzB5lKhbz6RgOPg8QThmlxxoorZZJISSY8zTteZJallR5zT3rYvYF5KeFBLeFJLeFRL+i03mgJvb8xF00KRv0.aRXwooaVlDyRFYXh5bL8A6e8UovO1C0+M5EuzNSgRZExaVkv5jwqaVkFV2HF71C2zS+Huupfvi1+7aaJBw6GhqkZrOjku.EWLScEYaT+5ML3e.33gT.B"/>
+    <FILTER type="volume" id="0/3541be9" volume="0.87874925136566162109"/>
+    <FILTER type="level" id="0/22bf5d"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="9117eb/2a080b2" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/14a3815"/>
+    <FILTER type="level" id="0/1bc5c54"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="9117eb/18d543a" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/368d5e9"/>
+    <FILTER type="level" id="0/3352db2"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="9117eb/133a8a" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/130feb0"/>
+    <FILTER type="level" id="0/359f661"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="9117eb/3193bae" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/8c4216"/>
+    <FILTER type="level" id="0/396227c"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="9117eb/1c0aeb9" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/1453e27"/>
+    <FILTER type="level" id="0/3c16be4"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="9117eb/ffa6a6" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/197789c"/>
+    <FILTER type="level" id="0/1dc3fd9"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="9117eb/26b0cc9" midiVProp="0.375" midiVOffset="0.3125">
+    <FILTER type="volume" id="0/35c49f4"/>
+    <FILTER type="level" id="0/2b6367b"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+</EDIT>

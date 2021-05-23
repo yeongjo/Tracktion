@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EDIT appVersion="Tracktion 7.2.1" creationTime="1552307598675" modifiedBy="syj24"
+      mediaId="967ff2/26f5b7b" lastSignificantChange="16bf096a9b0"
+      lastPluginChange="1563109519213">
+  <TEMPOSEQUENCE>
+    <TEMPO startBeat="0" bpm="170" curve="1"/>
+    <TEMPO startBeat="2" bpm="137.1631317138671875" curve="1"/>
+    <TEMPO startBeat="4" bpm="119.290771484375" curve="1"/>
+    <TEMPO startBeat="6" bpm="95.46099090576171875" curve="1"/>
+    <TIMESIG numerator="4" denominator="4" startBeat="0"/>
+  </TEMPOSEQUENCE>
+  <PITCHSEQUENCE>
+    <PITCH start="0" pitch="60"/>
+  </PITCHSEQUENCE>
+  <VIEWSTATE currentSidePanel="Files" cursorpos="12.957426692999154838" viewleft="6.7879832468963474668"
+             viewright="14.025056043318171461" loopPlayback="1" snapToTimecode="1"
+             scrollWhenPlaying="0" markIn="6.3578723198214177614" tracktop="-93.75"/>
+  <AUTOMAPXML/>
+  <CLICKTRACK level="0.60255956649780273438"/>
+  <ID3VORBISMETADATA trackNumber="1" date="2019"/>
+  <MASTERVOLUME>
+    <FILTER type="volume" volume="0.99999994039535522461" id="0/1e20b3f"/>
+  </MASTERVOLUME>
+  <RACKFILTERS/>
+  <MASTERFILTERS/>
+  <AUXBUSNAMES/>
+  <TRACKCOMPS/>
+  <DEVICESEX>
+    <INPUTDEVICE name="USB Keystation 61es" targetTrack="967ff2/3344fd3" targetIndex="0"
+                 armed="0"/>
+  </DEVICESEX>
+  <ARADOCUMENT/>
+  <CONTROLLERMAPPINGS/>
+  <TEMPOTRACK name="Global" mediaId="967ff2/1815f78" height="145"/>
+  <MARKERTRACK name="Marker" trackType="2" mediaId="967ff2/9ea67b"/>
+  <MARKERTRACK name="Marker" trackType="1" mediaId="967ff2/131a905">
+    <CLIP name="Marker 1" type="marker" start="0" length="1.5807530160748324288"
+          offset="0" mediaId="967ff2/12b90b8" sync="0" colour="ffffaa00"
+          markerId="1"/>
+    <CLIP name="Marker 2" type="marker" start="0" length="1.5807530160748324288"
+          offset="0" mediaId="967ff2/3c8b9bf" sync="0" colour="ffffaa00"
+          markerId="2"/>
+    <CLIP name="Marker 3" type="marker" start="0" length="1.5807530160748324288"
+          offset="0" mediaId="967ff2/2025150" sync="0" colour="ffffaa00"
+          markerId="3"/>
+    <CLIP name="Marker 4" type="marker" start="0" length="1.5807530160748324288"
+          offset="0" mediaId="967ff2/3e388b9" sync="0" colour="ffffaa00"
+          markerId="4"/>
+    <CLIP name="Marker 5" type="marker" start="0" length="1.5807530160748324288"
+          offset="0" mediaId="967ff2/e38b8a" sync="0" colour="ffffaa00"
+          markerId="5"/>
+    <CLIP name="Marker 6" type="marker" start="0" length="1.5807530160748324288"
+          offset="0" mediaId="967ff2/b1835f" sync="0" colour="ffffaa00"
+          markerId="6"/>
+    <CLIP name="Marker 7" type="marker" start="0" length="1.5807530160748324288"
+          offset="0" mediaId="967ff2/1bd4028" sync="0" colour="ffffaa00"
+          markerId="7"/>
+    <CLIP name="Marker 8" type="marker" start="0" length="1.5807530160748324288"
+          offset="0" mediaId="967ff2/23e3eda" sync="0" colour="ffffaa00"
+          markerId="8"/>
+    <CLIP name="Marker 9" type="marker" start="0" length="1.5807530160748324288"
+          offset="0" mediaId="967ff2/13274b1" sync="0" colour="ffffaa00"
+          markerId="9"/>
+    <CLIP name="Marker 10" type="marker" start="0" length="1.5807530160748324288"
+          offset="0" mediaId="967ff2/3370349" sync="0" colour="ffffaa00"
+          markerId="10"/>
+    <CLIP name="Marker 11" type="marker" start="0" length="1.5807530160748324288"
+          offset="0" mediaId="967ff2/1abc274" sync="0" colour="ffffaa00"
+          markerId="11"/>
+    <CLIP name="Marker 12" type="marker" start="0" length="1.5807530160748324288"
+          offset="0" mediaId="967ff2/2f55518" sync="0" colour="ffffaa00"
+          markerId="12"/>
+    <CLIP name="Marker 13" type="marker" start="0" length="1.5807530160748324288"
+          offset="0" mediaId="967ff2/8ef855" sync="0" colour="ffffaa00"
+          markerId="13"/>
+    <CLIP name="Marker 14" type="marker" start="0" length="1.5807530160748324288"
+          offset="0" mediaId="967ff2/25c4948" sync="0" colour="ffffaa00"
+          markerId="14"/>
+    <CLIP name="Marker 15" type="marker" start="0" length="1.5807530160748324288"
+          offset="0" mediaId="967ff2/19bc532" sync="0" colour="ffffaa00"
+          markerId="15"/>
+  </MARKERTRACK>
+  <MARKERTRACK name="Marker" trackType="0" mediaId="967ff2/398c6b9"/>
+  <TRACK mediaId="967ff2/2c6bec8" midiVProp="0.28125" midiVOffset="0.52362804878048785362"
+         height="270" inputDevice="">
+    <CLIP name="New MIDI Clip" type="midi" start="0" length="6.3578723198214150969"
+          offset="0" sync="0" mediaId="967ff2/2ba3cc6" colour="ffff0000"
+          speed="1">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1">
+        <NOTE p="91" b="0" l="1" v="61" c="0"/>
+        <NOTE p="91" b="2" l="1" v="53" c="0"/>
+        <NOTE p="91" b="4" l="1" v="38" c="0"/>
+        <NOTE p="84" b="1" l="1" v="55" c="0"/>
+        <NOTE p="84" b="2.9999999999999995559" l="0.99999999999999955591" v="45"
+              c="0"/>
+        <NOTE p="84" b="5" l="1" v="34" c="0"/>
+        <NOTE p="91" b="5.9999999999999982236" l="1.0000000000000008882" v="31"
+              c="0"/>
+        <NOTE p="84" b="7" l="1" v="36" c="0"/>
+        <NOTE p="91" b="8" l="4" v="43" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <FILTER type="vst" uid="4b7a3634" filename="G:\ProgramFiles\vst\Bitsonic\Keyzone Classic.dll"
+            name="Keyzone Classic" manufacturer="Bitsonic LP" id="0/3be31e0"
+            windowX="477" windowY="245" windowLocked="0" programNum="0" state="3680.CMlaKA....fQBMDZ....Arjd1PC....7....A.............................................................................................................................................................................PC.uTY4o2atUFHCwVXyMWZi4RayUF.DwJ..PDq..P.....A....D....P......B....H...f.....................7++u.C..LMS...............vaRrCPJFDH+zLyL4Cz++++.....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................T..........E...............A............................wYw..DmEA..vED.PbYw.....7G...ve.......................................Sy................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................T...............D...............D............DmEC.PbVD...WP..cgEC....ve....+A........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................PA..............P............................PbVL..wYQ...bAA.vEVL.....+A...7G......................................vzL................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................E...............A............................wYw..DmEA..vED.PWXw.....7G...ve.........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................T...............D............................DmEC.PbVD...WP..RlEC....ve....+A........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................."/>
+    <FILTER type="volume" id="0/2868eb9"/>
+    <FILTER type="level" id="0/38d86a1"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="967ff2/3344fd3" midiVProp="0.28125" midiVOffset="0.359375"
+         height="50" inputDevice="USB Keystation 61es">
+    <FILTER type="vst" uid="504c4751" filename="C:\Program Files\Plogue\sforzando\VST\sforzando VST_x64.dll"
+            name="sforzando VST_x64" manufacturer="Plogue Art et Technologie, Inc"
+            id="0/1d5ffee" windowX="998" windowY="339" windowLocked="0" programNum="0"
+            state="609.CMlaKA....fQBMDZ....A.ESGEE...P...................................................................................................................................................................................P.AOTQGA03D...3wYiT1zaaCCCF99.1+AAcu0VoIos.1sHaMnvGBVAR64AZa1LgoOxroM592OZk3D2gVXmKI7UOjR7MhJ492rFQKVUq8tTo5xXo39695WRVUogsPKNXsalOWJ1W4KaJnrGXgX0bIyJ3OIaQhztc0h+z.FM8WdYonlpPvxxoxqlIEV3ssAkUFiuXy2RkKTr7lrGx9QCswWhgrfFxaAh2zsFOkJiGJYvVzjJ0Nt1MVzQRgQ2hGRlIqKRkWur6av.rhRbg.6NSWVWXNJ+cNMrJUtj42Y74f44FW3TxBQm5HdyE5xfnCrcmMw5ZBHT7XE3JEOoAmO5iDkhbv86LN2YKh4zO6gwcgE+Bbttt3Bta26MrYsjsV57gXe9O4psCOhPbPcXA6fe5KH9On2001FJHbrGB8wFP656iVvzbvji9PD0Ij3OCY13HWMNx7wQVLNxxwQtdbjaFG41wQTwSfYB9qZBFrZBNrZBVr5y83mfJv9e2IFbsIIpa7nOX8quhEzvAl9KjGFbVYy0nq.OOWDd63cusrXPwe7kr9BAEDOdmc9kfP75Sw0ng2Zr7YH+vvRWQRh5e9hC9GfW9qDp"/>
+    <FILTER type="volume" id="0/24c58ff" volume="0.96926647424697875977"/>
+    <FILTER type="level" id="0/30e5375"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="967ff2/38a0ac6" midiVProp="0.28125" midiVOffset="0.359375"
+         height="31">
+    <FILTER type="volume" id="0/1e28f9d"/>
+    <FILTER type="level" id="0/18391ce"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="967ff2/325562c" midiVProp="0.28125" midiVOffset="0.359375">
+    <FILTER type="volume" id="0/a8a20"/>
+    <FILTER type="level" id="0/d239db"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="967ff2/754e73" midiVProp="0.28125" midiVOffset="0.359375">
+    <FILTER type="volume" id="0/27ad774"/>
+    <FILTER type="level" id="0/d08a3a"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="967ff2/338c38a" midiVProp="0.28125" midiVOffset="0.359375">
+    <FILTER type="volume" id="0/1a2fca5"/>
+    <FILTER type="level" id="0/19759db"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="967ff2/11410f0" midiVProp="0.28125" midiVOffset="0.359375">
+    <FILTER type="volume" id="0/2f7c83b"/>
+    <FILTER type="level" id="0/1e0acc0"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="967ff2/2643d11" midiVProp="0.28125" midiVOffset="0.359375">
+    <FILTER type="volume" id="0/23c2625"/>
+    <FILTER type="level" id="0/3b15d59"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+</EDIT>

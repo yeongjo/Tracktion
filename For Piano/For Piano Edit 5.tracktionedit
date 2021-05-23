@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EDIT appVersion="Tracktion 7.2.1" creationTime="1572530792648" lastPluginChange="1620349454021"
+      modifiedBy="syj24" mediaId="9117eb/b49622" lastSignificantChange="179445de537">
+  <TEMPOSEQUENCE>
+    <TEMPO startBeat="0" bpm="120" curve="1"/>
+    <TIMESIG numerator="4" denominator="4" startBeat="0"/>
+  </TEMPOSEQUENCE>
+  <PITCHSEQUENCE>
+    <PITCH start="0" pitch="60"/>
+  </PITCHSEQUENCE>
+  <VIEWSTATE currentSidePanel="Files" cursorpos="6.6966751187113162658" markIn="43"
+             viewleft="-0.67345143810076990576" viewright="23.986184335890353481"
+             tracktop="0" markOut="25" sidePanelsWidth="0"/>
+  <AUTOMAPXML/>
+  <CLICKTRACK level="0.60255956649780273438"/>
+  <ID3VORBISMETADATA trackNumber="1" date="2019"/>
+  <MASTERVOLUME>
+    <FILTER type="volume" volume="0.98275864124298095703" id="0/250c81b"
+            pan="0.070588238537311553955"/>
+  </MASTERVOLUME>
+  <RACKFILTERS/>
+  <MASTERFILTERS/>
+  <AUXBUSNAMES/>
+  <TRACKCOMPS/>
+  <DEVICESEX>
+    <INPUTDEVICE name="VM-VAIO 1" targetIndex="-1" armed="0"/>
+    <INPUTDEVICE name="VM-VAIO 2" targetIndex="-1" armed="0"/>
+    <INPUTDEVICE name="USB MIDI" targetTrack="9117eb/18f8c00" targetIndex="0"
+                 armed="0"/>
+  </DEVICESEX>
+  <ARADOCUMENT/>
+  <CONTROLLERMAPPINGS/>
+  <TEMPOTRACK name="Global" mediaId="9117eb/2f37537" height="57"/>
+  <MARKERTRACK name="Marker" trackType="2" mediaId="9117eb/fb3fee"/>
+  <MARKERTRACK name="Marker" trackType="1" mediaId="9117eb/b86c44"/>
+  <MARKERTRACK name="Marker" trackType="0" mediaId="9117eb/17d10a8"/>
+  <TRACK mediaId="9117eb/18f8c00" midiVProp="0.36473612474559713448" midiVOffset="0.27960320775692232287"
+         inputDevice="USB MIDI" height="461.00025086193016932">
+    <CLIP name="New MIDI Clip" type="midi" start="0" length="22" offset="0"
+          sync="0" mediaId="9117eb/1004d86" colour="ffff0000">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1">
+        <NOTE p="48" b="0" l="2" v="59" c="0"/>
+        <NOTE p="52" b="0" l="2" v="59" c="0"/>
+        <NOTE p="55" b="0" l="2" v="59" c="0"/>
+        <NOTE p="59" b="0" l="2" v="59" c="0"/>
+        <NOTE p="50" b="2" l="2" v="59" c="0"/>
+        <NOTE p="53" b="2" l="2" v="59" c="0"/>
+        <NOTE p="57" b="2" l="2" v="59" c="0"/>
+        <NOTE p="60" b="2" l="2" v="59" c="0"/>
+        <NOTE p="62" b="4" l="2" v="59" c="0"/>
+        <NOTE p="59" b="4" l="2" v="59" c="0"/>
+        <NOTE p="55" b="4" l="2" v="59" c="0"/>
+        <NOTE p="52" b="4" l="2" v="59" c="0"/>
+        <NOTE p="53" b="6" l="2" v="59" c="0"/>
+        <NOTE p="57" b="6" l="2" v="59" c="0"/>
+        <NOTE p="60" b="6" l="2" v="59" c="0"/>
+        <NOTE p="64" b="6" l="2" v="59" c="0"/>
+        <NOTE p="55" b="8" l="2" v="59" c="0"/>
+        <NOTE p="59" b="8" l="2" v="59" c="0"/>
+        <NOTE p="62" b="8" l="2" v="59" c="0"/>
+        <NOTE p="65" b="8" l="2" v="59" c="0"/>
+        <NOTE p="57" b="10" l="2" v="59" c="0"/>
+        <NOTE p="60" b="10" l="2" v="59" c="0"/>
+        <NOTE p="64" b="10" l="2" v="59" c="0"/>
+        <NOTE p="67" b="10" l="2" v="59" c="0"/>
+        <NOTE p="59" b="12" l="2" v="59" c="0"/>
+        <NOTE p="62" b="12" l="2" v="59" c="0"/>
+        <NOTE p="65" b="12" l="2" v="59" c="0"/>
+        <NOTE p="69" b="12" l="2" v="59" c="0"/>
+        <NOTE p="71" b="26" l="2" v="59" c="0"/>
+        <NOTE p="67" b="26" l="2" v="59" c="0"/>
+        <NOTE p="64" b="26" l="2" v="59" c="0"/>
+        <NOTE p="61" b="26" l="2" v="59" c="0"/>
+        <NOTE p="69" b="24" l="2" v="59" c="0"/>
+        <NOTE p="66" b="24" l="2" v="59" c="0"/>
+        <NOTE p="62" b="24" l="2" v="59" c="0"/>
+        <NOTE p="59" b="24" l="2" v="59" c="0"/>
+        <NOTE p="67" b="22" l="2" v="59" c="0"/>
+        <NOTE p="64" b="22" l="2" v="59" c="0"/>
+        <NOTE p="61" b="22" l="2" v="59" c="0"/>
+        <NOTE p="57" b="22" l="2" v="59" c="0"/>
+        <NOTE p="66" b="20" l="2" v="59" c="0"/>
+        <NOTE p="62" b="20" l="2" v="59" c="0"/>
+        <NOTE p="59" b="20" l="2" v="59" c="0"/>
+        <NOTE p="55" b="20" l="2" v="59" c="0"/>
+        <NOTE p="54" b="18" l="2" v="59" c="0"/>
+        <NOTE p="57" b="18" l="2" v="59" c="0"/>
+        <NOTE p="61" b="18" l="2" v="59" c="0"/>
+        <NOTE p="64" b="18" l="2" v="59" c="0"/>
+        <NOTE p="62" b="16" l="2" v="59" c="0"/>
+        <NOTE p="59" b="16" l="2" v="59" c="0"/>
+        <NOTE p="55" b="16" l="2" v="59" c="0"/>
+        <NOTE p="52" b="16" l="2" v="59" c="0"/>
+        <NOTE p="61" b="14" l="2" v="59" c="0"/>
+        <NOTE p="57" b="14" l="2" v="59" c="0"/>
+        <NOTE p="54" b="14" l="2" v="59" c="0"/>
+        <NOTE p="50" b="14" l="2" v="59" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <CLIP channel="1" name="channel 1" type="midi" start="25" length="18"
+          offset="0" source="9117eb/19cbcd1" sync="0" mediaId="9117eb/10a912d"
+          colour="ffff0000">
+      <MIDISEQUENCE ver="1" channelNumber="1">
+        <NOTE p="54" b="0" l="4" v="94" c="0"/>
+        <NOTE p="61" b="0" l="4" v="96" c="0"/>
+        <NOTE p="64" b="0" l="4" v="59" c="0"/>
+        <NOTE p="57" b="0" l="4" v="96" c="0"/>
+        <NOTE p="52" b="4" l="0.0010416666666666666522" v="96" c="0"/>
+        <NOTE p="52" b="4" l="4" v="96" c="0"/>
+        <NOTE p="59" b="6" l="2" v="96" c="0"/>
+        <NOTE p="55" b="4" l="4" v="96" c="0"/>
+        <NOTE p="49" b="8" l="4" v="96" c="0"/>
+        <NOTE p="57" b="8" l="2" v="96" c="0"/>
+        <NOTE p="54" b="9.5" l="1.5" v="96" c="0"/>
+        <NOTE p="57" b="10" l="1.5" v="96" c="0"/>
+        <NOTE p="54" b="11" l="1" v="96" c="0"/>
+        <NOTE p="50" b="12" l="4" v="96" c="0"/>
+        <NOTE p="57" b="12.5" l="2" v="96" c="0"/>
+        <NOTE p="54" b="13.5" l="1.5" v="96" c="0"/>
+        <NOTE p="57" b="14.5" l="1.5" v="96" c="0"/>
+        <NOTE p="54" b="15" l="1" v="96" c="0"/>
+        <NOTE p="52" b="16" l="0.5" v="96" c="0"/>
+        <NOTE p="52" b="16.5" l="0.75" v="96" c="0"/>
+        <NOTE p="59" b="16.5" l="2" v="96" c="0"/>
+        <NOTE p="56" b="17.5" l="1.5" v="96" c="0"/>
+        <NOTE p="59" b="18.5" l="1.5" v="96" c="0"/>
+        <NOTE p="56" b="19" l="1" v="96" c="0"/>
+        <NOTE p="52" b="20" l="0.0010416666666666666522" v="96" c="0"/>
+        <NOTE p="52" b="20" l="4" v="96" c="0"/>
+        <NOTE p="59" b="20.5" l="2" v="96" c="0"/>
+        <NOTE p="56" b="21.5" l="1.5" v="96" c="0"/>
+        <NOTE p="59" b="22.5" l="1.5" v="96" c="0"/>
+        <NOTE p="56" b="23" l="1" v="96" c="0"/>
+        <NOTE p="49" b="24" l="4" v="96" c="0"/>
+        <NOTE p="56" b="24.5" l="2" v="96" c="0"/>
+        <NOTE p="53" b="25.5" l="1.5" v="96" c="0"/>
+        <NOTE p="56" b="26.5" l="1.5" v="96" c="0"/>
+        <NOTE p="53" b="27" l="1" v="96" c="0"/>
+        <NOTE p="50" b="28" l="4" v="96" c="0"/>
+        <NOTE p="57" b="28.5" l="2" v="96" c="0"/>
+        <NOTE p="54" b="29.5" l="1.5" v="96" c="0"/>
+        <NOTE p="57" b="30.5" l="1.5" v="96" c="0"/>
+        <NOTE p="54" b="31" l="1" v="96" c="0"/>
+        <NOTE p="52" b="32" l="0.5" v="96" c="0"/>
+        <NOTE p="52" b="32.5" l="0.75" v="96" c="0"/>
+        <NOTE p="59" b="32.5" l="2" v="96" c="0"/>
+        <NOTE p="56" b="33.5" l="1.5" v="96" c="0"/>
+        <NOTE p="59" b="34.5" l="1.5" v="96" c="0"/>
+        <NOTE p="56" b="35" l="1" v="96" c="0"/>
+        <NOTE p="81" b="33.517708333333331439" l="1.5" v="98" c="0"/>
+        <NOTE p="78" b="32.516666666666665719" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="81" b="31.516666666666665719" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="83" b="30.515625" l="0.99895833333333428072" v="100" c="0"/>
+        <NOTE p="83" b="29.514583333333334281" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="85" b="29.014583333333334281" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="86" b="28.014583333333334281" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="88" b="27.513541666666668561" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="85" b="26.012500000000002842" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="81" b="25.012500000000002842" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="85" b="24.011458333333337123" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="81" b="23.011458333333337123" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="76" b="22.010416666666671404" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="81" b="21.510416666666671404" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="76" b="20.509374999999998579" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="78" b="20" l="0.5" v="88" c="0"/>
+        <NOTE p="76" b="19.5" l="0.0083333333333328596382" v="74" c="0"/>
+        <NOTE p="76" b="17.50833333333333286" l="1.9916666666666671404" v="100"
+              c="0"/>
+        <NOTE p="78" b="16.50729166666666714" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="81" b="15.506250000000001421" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="83" b="14.506250000000001421" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="83" b="13.505208333333335702" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="85" b="13.005208333333335702" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="86" b="12.005208333333335702" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="88" b="11.504166666666662877" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="85" b="10.003124999999997158" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="81" b="9.0031249999999971578" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="85" b="8.0020833333333314386" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="78" b="7.5" l="0.49895833333333428072" v="100" c="0"/>
+        <NOTE p="81" b="5.5010416666666657193" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="76" b="4.5" l="0.99895833333333428072" v="100" c="0"/>
+        <NOTE p="78" b="4" l="0.49895833333333428072" v="100" c="0"/>
+        <NOTE p="76" b="3" l="1" v="82" c="0"/>
+        <NOTE p="78" b="2" l="1" v="69" c="0"/>
+        <NOTE p="76" b="1" l="1" v="82" c="0"/>
+        <NOTE p="78" b="0" l="1" v="56" c="0"/>
+      </MIDISEQUENCE>
+      <QUANTISATION/>
+      <GROOVE/>
+    </CLIP>
+    <FILTER type="vst" uid="504c4751" filename="D:\ProgramFiles\vst\sforzando\Plogue Art et Technologie, Inc\sforzando VST_x64.dll"
+            name="sforzando VST_x64" manufacturer="Plogue Art et Technologie, Inc"
+            id="0/1a77838" windowX="12" windowY="351" windowLocked="0" programNum="0"
+            state="644.CMlaKA....fQBMDZ....A.ESGEE...P...................................................................................................................................................................................P.jOTQGAUOE...3wYiT0ziaBCD8dk5+AKeeSrI7oTnqR6FshCQckx1yUCFuonZaRACZ6+9NXRHToMB3DyyuY7LOXdae7cshzIqaJqLoT9JFk73W97m1tqtDNBcxImkDFQImqqJZE1rmP.F2mhbI3y1iRqszbpg7mVPUZ+KdLkzXqkfFgSoa7nDM79QGxNkpRb3qoz.NBeH6oru2ZOTUHcYAs1JMXwK8npxlRYSgTxNoJkVZvZ2pkFKknJ6jCIiLaDXM382s.T.BwIOPj8M0pFg5B72v7j0ozPLgSppbP8Zqw0lHv5wQBucRYgCz.59liruwBVI44ZvTPdoDLUq+HPJIGL+NCy0KfgoeSDY8gheAFS+X7.1nmqTnZE5SI1aMw47ehU6j7BEKFz3NPO40JgE+B8+ist05PtLDtA4.TZtNHcfpcPlW+gT3iTX2ih27T1LOE+4oDLOkv4oDMOk34ojLOENaAbVf9xWf.yWfByWfDyuuF+BTC5AEbRSuhEEG4y3AQ73vj3.l2cSiuYZdAn+QO8jj3MAdrfIKZq62ztFr+s2jB6zcuw+sGVB2oyKkFg71NlyHZpQkehynRL5JLdUO+irqkEDVz3H6lGiKd+XbiTgMhr3UHeXKruHaWe0XDC9GnYve4D"/>
+    <FILTER type="volume" id="0/e60ee9" volume="0.96495616436004638672"/>
+    <FILTER type="level" id="0/2ff8978"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="9117eb/3662d5e" midiVProp="0.28125" midiVOffset="0.27205882352941174185"
+         height="330.00017957578523919" mute="1">
+    <CLIP name="New MIDI Clip" type="midi" start="25" length="18" offset="0"
+          sync="0" mediaId="9117eb/11c376a" colour="ffffaa00">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1">
+        <NOTE p="81" b="33.517708333333331439" l="1.5" v="98" c="0"/>
+        <NOTE p="78" b="32.516666666666665719" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="81" b="31.516666666666665719" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="83" b="30.515625" l="0.99895833333333428072" v="100" c="0"/>
+        <NOTE p="83" b="29.514583333333334281" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="85" b="29.014583333333334281" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="86" b="28.014583333333334281" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="88" b="27.513541666666668561" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="85" b="26.012500000000002842" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="81" b="25.012500000000002842" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="85" b="24.011458333333337123" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="81" b="23.011458333333337123" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="76" b="22.010416666666671404" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="81" b="21.510416666666671404" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="76" b="20.509374999999998579" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="78" b="20" l="0.5" v="88" c="0"/>
+        <NOTE p="76" b="19.5" l="0.0083333333333328596382" v="74" c="0"/>
+        <NOTE p="76" b="17.50833333333333286" l="1.9916666666666671404" v="100"
+              c="0"/>
+        <NOTE p="78" b="16.50729166666666714" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="81" b="15.506250000000001421" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="83" b="14.506250000000001421" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="83" b="13.505208333333335702" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="85" b="13.005208333333335702" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="86" b="12.005208333333335702" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="88" b="11.504166666666662877" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="85" b="10.003124999999997158" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="81" b="9.0031249999999971578" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="85" b="8.0020833333333314386" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="81" b="7.0020833333333314386" l="0.99895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="76" b="6.0010416666666657193" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="81" b="5.5010416666666657193" l="0.49895833333333428072" v="100"
+              c="0"/>
+        <NOTE p="76" b="4.5" l="0.99895833333333428072" v="100" c="0"/>
+        <NOTE p="78" b="4" l="0.49895833333333428072" v="100" c="0"/>
+        <NOTE p="76" b="3" l="1" v="82" c="0"/>
+        <NOTE p="78" b="2" l="1" v="69" c="0"/>
+        <NOTE p="76" b="1" l="1" v="82" c="0"/>
+        <NOTE p="78" b="0" l="1" v="56" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <FILTER type="vst" uid="504c4751" filename="D:\ProgramFiles\vst\sforzando\Plogue Art et Technologie, Inc\sforzando VST_x64.dll"
+            name="sforzando VST_x64" manufacturer="Plogue Art et Technologie, Inc"
+            id="0/28c5c88" windowX="12" windowY="351" windowLocked="0" programNum="0"
+            state="662.CMlaKA....fQBMDZ....A.ESGEE...P...................................................................................................................................................................................P.1OTQGAkbE...3wYiT00aaBCE88Is+CV98FrIfwHEVU1ZTEODsJk1mmtwwMCMicFXPc+62ERBgV0HBO46wmy8K78t392JMjVcUcgylQ4yXTx8e6qeYwxpBXCzpGcWpHgRNT410n74Of.LdDE4RvuEazdegceM4uMfov+O7ZJo1WogRDNiNOjRJg21zirzXbp0eOiFyQ304Oj+yF+Z2NcuJnw6JAOFzMFmOixFCYzsZSFsvh9toTa8ThonUeTLxrVg9f2EaEX.DhStin6RpY0JyI3ef5zUYTAJXuwsELO2X6SSDHXnjvnSJ10CZgxtjirp1CdM4wJvti7TAXcAeFHkrEr+IG0FFyP4WZhrNS0uAqsqLtCSzCNC1sDQTh+RRbX6uPusWehhGMp6unbzQmxi+gdeYW136QNUD8ExZnvdtPZASyw1bvmRgOPgcMJgSSY9zThllR7zTDSSIYZJxoojNMEN6F3bC8W9Mzf42PGleCsX906wOAUP4GeSLikFEIkboTDFMWFxBuppj2IKgIEBdTLOcdbhP9w2eiB17w5RjIQLdbrHUHExzQSmAcimmMV85qZke7.6v.wwI2kkaKzVk9xfY+1qwa2hR62toFVkLDpGeI+raAkG21jeYwTu8pA6ZsASD8tmgsGGc6bxhfyaSQi+CrG5qIC"/>
+    <FILTER type="volume" id="0/e4b7bb"/>
+    <FILTER type="level" id="0/33f2843"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="9117eb/33e8cd" midiVProp="0.28125" midiVOffset="0.359375"
+         inputDevice="" height="270.00014692564235474" mute="1">
+    <FILTER type="vst" uid="4c48724f" filename="D:\ProgramFiles\vst\FS_Blues_Steel_Guitar_-_64\FS Blues Steel Guitar - 64.dll"
+            name="FS Blues Steel Guitar - 64" manufacturer="bigcat" id="0/368aa9"
+            windowX="612" windowY="164" windowLocked="0" programNum="0" state="2531.CMlaKA....fQBMDZ....AvDRx8D...f4..................................................................................................................................................................................PBCYzTfHDa0U1bfLEckUFafbTcoQWXxARKfXCMtz1bkA.QrB..DwJ..D....P................P.....A...H....................v8++Cv..........P.....A........AD...........8+++O.....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................C.........f..........fA...P.............................................VND.....+A...7G.........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................B.........fF....A............................................X4P.....7G...ve.........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................H..........Y....D....................................................ve....+A........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................."/>
+    <FILTER type="vst" uid="4e38354c" filename="D:\ProgramFiles\vst\NC_8505_Lead_x64.dll"
+            name="NC_8505_Lead_x64" manufacturer="NickCrowLab" id="0/2a4e841"
+            windowX="1031" windowY="635" windowLocked="0" programNum="0"
+            state="248.CMlaKA....fQ3IzZ....A3DN0vD..bB1....A...........................................................................................................................................................................CMlaKA....fQ3MzZ....A3DN0vD..bB1....IzB...................................vO....+....7C...vO....+....7C...vO.........7Cf..."/>
+    <FILTER type="volume" id="0/2494a4e" volume="0.31840440630912780762"/>
+    <FILTER type="level" id="0/3dade55"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="9117eb/1af1e6a" midiVProp="0.375" midiVOffset="0.3125"
+         inputDevice="" mute="1" height="50.000027208452301863">
+    <CLIP name="Track 3 Recording 1" type="midi" start="56.530206758560403557"
+          length="7.8499999999926686201" offset="0" sync="0" mediaId="9117eb/182122f"
+          colour="ffaaff00">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1">
+        <NOTE p="76" b="1.9618508000891949905" l="3.0938889998942613602" v="88"
+              c="0"/>
+        <CONTROL b="6.7358032000517766846" type="1" val="16128"/>
+        <CONTROL b="6.7378032000303562654" type="1" val="15616"/>
+        <CONTROL b="6.7487514000419821514" type="1" val="15488"/>
+        <CONTROL b="6.7507514000205617322" type="1" val="14848"/>
+        <CONTROL b="6.7547513999777208937" type="1" val="14336"/>
+        <CONTROL b="6.7567514000727157963" type="1" val="13952"/>
+        <CONTROL b="6.7624500000417526735" type="1" val="13824"/>
+        <CONTROL b="6.7644500000203322543" type="1" val="13184"/>
+        <CONTROL b="6.7664500001153271569" type="1" val="12288"/>
+        <CONTROL b="6.7684500000939067377" type="1" val="10752"/>
+        <CONTROL b="6.7704500000724863185" type="1" val="8704"/>
+        <CONTROL b="6.7724500000510658992" type="1" val="5760"/>
+        <CONTROL b="6.77445000002964548" type="1" val="2560"/>
+        <CONTROL b="6.7781364000436212791" type="1" val="128"/>
+        <CONTROL b="6.7800243999842848552" type="1" val="0"/>
+        <NOTE p="76" b="7.3768194001201834453" l="2.2904673998709768057" v="82"
+              c="0"/>
+        <CONTROL b="7.985769000024191655" type="1" val="256"/>
+        <CONTROL b="7.9877690000027712358" type="1" val="768"/>
+        <CONTROL b="7.9917689999599303974" type="1" val="1280"/>
+        <CONTROL b="7.9952637999119531287" type="1" val="1664"/>
+        <CONTROL b="7.9975711999029215349" type="1" val="1792"/>
+        <CONTROL b="8.0007495998904403223" type="1" val="1920"/>
+        <CONTROL b="8.0027719999231692327" type="1" val="2816"/>
+        <CONTROL b="8.0047719999017488135" type="1" val="3328"/>
+        <CONTROL b="8.0087719999753232969" type="1" val="3840"/>
+        <CONTROL b="8.0127719999324824585" type="1" val="3968"/>
+        <CONTROL b="8.0162047998780678881" type="1" val="4480"/>
+        <CONTROL b="8.0184209998730864299" type="1" val="4992"/>
+        <CONTROL b="8.0224598000092726124" type="1" val="5504"/>
+        <CONTROL b="8.0244597999878521932" type="1" val="6016"/>
+        <CONTROL b="8.0284598000614266766" type="1" val="6528"/>
+        <CONTROL b="8.0304598000400062574" type="1" val="6912"/>
+        <CONTROL b="8.0362259999417062772" type="1" val="7040"/>
+        <CONTROL b="8.0384598000707399024" type="1" val="7552"/>
+        <CONTROL b="8.0400538001010488642" type="1" val="7936"/>
+        <CONTROL b="8.042053800079628445" type="1" val="8064"/>
+        <CONTROL b="8.0440538000582080258" type="1" val="8576"/>
+        <CONTROL b="8.0460538000367876066" type="1" val="9088"/>
+        <CONTROL b="8.05005380011036209" type="1" val="9216"/>
+        <CONTROL b="8.0534764000946950091" type="1" val="9728"/>
+        <CONTROL b="8.0556132000671993865" type="1" val="10112"/>
+        <CONTROL b="8.0579306000178974045" type="1" val="10624"/>
+        <CONTROL b="8.0600538001196753157" type="1" val="11136"/>
+        <CONTROL b="8.0638127999879714025" type="1" val="11648"/>
+        <CONTROL b="8.0658127999665509833" type="1" val="12160"/>
+        <CONTROL b="8.0698127999237101449" type="1" val="13056"/>
+        <CONTROL b="8.0730323999921154154" type="1" val="13184"/>
+        <CONTROL b="8.0751595998915206565" type="1" val="13568"/>
+        <CONTROL b="8.077373999989248432" type="1" val="14080"/>
+        <CONTROL b="8.0796787999604191555" type="1" val="14592"/>
+        <CONTROL b="8.081816000052384652" type="1" val="15104"/>
+        <CONTROL b="8.0838160000309642328" type="1" val="15232"/>
+        <CONTROL b="8.0858160000095438136" type="1" val="15616"/>
+        <CONTROL b="8.0878159999881233944" type="1" val="16128"/>
+        <CONTROL b="8.0898159999667029751" type="1" val="16256"/>
+        <CONTROL b="9.7945224000174846424" type="1" val="16128"/>
+        <CONTROL b="9.7985223999746438039" type="1" val="15616"/>
+        <CONTROL b="9.8043961999971713794" type="1" val="15488"/>
+        <CONTROL b="9.8063961999757509602" type="1" val="14464"/>
+        <CONTROL b="9.808396199954330541" type="1" val="13952"/>
+        <CONTROL b="9.8103962000493254436" type="1" val="12672"/>
+        <CONTROL b="9.8123962000279050244" type="1" val="12160"/>
+        <CONTROL b="9.8143962000064846052" type="1" val="11264"/>
+        <CONTROL b="9.816396199985064186" type="1" val="9600"/>
+        <CONTROL b="9.8181983999708961619" type="1" val="7680"/>
+        <CONTROL b="9.8201983999494757427" type="1" val="5632"/>
+        <CONTROL b="9.8221984000444706453" type="1" val="3072"/>
+        <CONTROL b="9.8261984000016298069" type="1" val="896"/>
+        <CONTROL b="9.8281983999802093876" type="1" val="0"/>
+        <CONTROL b="10.07641859993211142" type="1" val="256"/>
+        <CONTROL b="10.078418599910691" type="1" val="384"/>
+        <CONTROL b="10.080018799988209821" type="1" val="896"/>
+        <CONTROL b="10.085618200133211531" type="1" val="1408"/>
+        <CONTROL b="10.087935600083909549" type="1" val="1536"/>
+        <CONTROL b="10.092018799976102628" type="1" val="1664"/>
+        <CONTROL b="10.09401880007109753" type="1" val="2176"/>
+        <CONTROL b="10.096018800049677111" type="1" val="2560"/>
+        <CONTROL b="10.098018800028256692" type="1" val="3072"/>
+        <CONTROL b="10.099804399887688078" type="1" val="3200"/>
+        <CONTROL b="10.101804399866267659" type="1" val="3712"/>
+        <CONTROL b="10.107630799993529536" type="1" val="3840"/>
+        <CONTROL b="10.109537799846037842" type="1" val="4352"/>
+        <CONTROL b="10.113804399970575787" type="1" val="4480"/>
+        <CONTROL b="10.115804399949155368" type="1" val="4864"/>
+        <CONTROL b="10.117804399927734949" type="1" val="4992"/>
+        <CONTROL b="10.119774400027125694" type="1" val="5504"/>
+        <CONTROL b="10.121774400005705274" type="1" val="5632"/>
+        <CONTROL b="10.123774399984284855" type="1" val="6144"/>
+        <CONTROL b="10.129368399971752979" type="1" val="6656"/>
+        <CONTROL b="10.133774399993598081" type="1" val="6784"/>
+        <CONTROL b="10.135774400088592984" type="1" val="6912"/>
+        <CONTROL b="10.137774400067172564" type="1" val="7296"/>
+        <CONTROL b="10.139799400003283836" type="1" val="7936"/>
+        <CONTROL b="10.143799399960442997" type="1" val="8064"/>
+        <CONTROL b="10.145799399939022578" type="1" val="8576"/>
+        <CONTROL b="10.151473400069988884" type="1" val="8704"/>
+        <CONTROL b="10.153626400049432732" type="1" val="9088"/>
+        <CONTROL b="10.157799400043330706" type="1" val="9216"/>
+        <CONTROL b="10.160794000144704796" type="1" val="9728"/>
+        <CONTROL b="10.164794000101863958" type="1" val="10240"/>
+        <CONTROL b="10.166794000080443539" type="1" val="10752"/>
+        <CONTROL b="10.168794000059023119" type="1" val="10880"/>
+        <CONTROL b="10.17223600019107721" type="1" val="11264"/>
+        <CONTROL b="10.174371800155967094" type="1" val="11392"/>
+        <CONTROL b="10.176619000037788965" type="1" val="11904"/>
+        <CONTROL b="10.182442600027314938" type="1" val="12032"/>
+        <CONTROL b="10.184442600005894519" type="1" val="12544"/>
+        <CONTROL b="10.1864425999844741" type="1" val="13056"/>
+        <CONTROL b="10.188442599963053681" type="1" val="13184"/>
+        <CONTROL b="10.191843400014221288" type="1" val="13568"/>
+        <CONTROL b="10.196398800009518482" type="1" val="13696"/>
+        <CONTROL b="10.198442599972366907" type="1" val="14208"/>
+        <CONTROL b="10.200118599928572394" type="1" val="14720"/>
+        <CONTROL b="10.202118600023567296" type="1" val="15232"/>
+        <CONTROL b="10.206118599980726458" type="1" val="15360"/>
+        <CONTROL b="10.21011859993788562" type="1" val="15872"/>
+        <CONTROL b="10.215832399906247474" type="1" val="16000"/>
+        <CONTROL b="10.217976199932053305" type="1" val="16256"/>
+        <NOTE p="76" b="12.119153199953615285" l="0" v="120" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <FILTER type="vst" uid="646c3530" filename="D:\ProgramFiles\vst\nabla_1_2_1\nabla64.dll"
+            name="nabla64" manufacturer="Full Bucket Music" id="0/2d4531b"
+            windowX="2929" windowY="-302" windowLocked="0" programNum="55"
+            state="17820.CMlaKA....fQ3IzZ....APFa0.C..bR1.....A..........................................................................................................................................................................CMlaKA....fQ3MzZ....APFa0.C..bR1....2LDagM2boMFHRUlduAxPu0lXoA..................+PyIc+CLvGuOkKlD+LvvD+CEqR7O..............vOUTUU+.H..7Cf..vO.B..8758n3i5MJ4O.B..+.D..3C93gmOvAO7..........vOojlZ.....3S5ooF..........3iTRO8O.B..+TlqFA..........+....zi0pB5O.........7C...vO.........zy25iC.....+....7C...vOyMyL+.H..7Sc3drOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2.EZgMWYjAxTzIWZtcF.........................+7ie9C....fOAOnA+.H..7C...vO.........7Cf..vOUTET..........vO.B.......3y4awK.....................................+.H.............+.H..7Cf........+...............+....3SyeJuO0uBx+.H..7C...vO....+.H..zimbL1O+X0a+....7C...vOyMyL+.H..7SFYpoOLyby9LPkf9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2HUYy8lag4FcfLUX2MG.........................+zw81+Cf..vO.........7C...vO.........7Cf..vO.B............vO.B..8758n3C7gv8O.B..+.D..7C...fO.B............vOVXok.....7iDROM..........3Cf..vOlXBZ+jz.z.....vO.B..+....zCyL2bOLyby.....7C...vO.........zy25iC.....+....7C...vOyMyL+.H..3ynu4gOUH.M9nhpn9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2PTYrk1XgQWYfPTcsIlakM2b....................+....7C...vO....9zZKt7C...vO....................+.H..7yFf.3O.B.......7iLf4...........7C...vO.B............vOzPKs.....7SKszxO.B.......3ikVdI.....+TjGO7Cf.............3ippp5O....+.H..7Cf.............zy25iC.....+....7C...vOyMyL.....7CSbUoObEN79Hgmz+Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2.EZgMWYjAhTkMFcg41YrU1b....................+....7Cf..vO.........7C...vO.........7Cf..vOUTET..........vO.B..8jLfv3C7gvM.....+.H.............................+.H..................7Cf........+...............+....zCyL2bOLyby.....7C...vO....+.H..zSeUAE.....+....7C...vOyMyL+.H..7SVARfOa9i49Hjsf8Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....23TXyQWdfLEcxklamABTrU2YyA..................+Lj1w9Cf..vO....9HszR+C...vO.........7Cf..vOUTET..........vO.B.......3C7gvM.....................+.H..zikVhoOVZok.....3iTRS8O.B.......3imd3wO.B..+.........vO.B.......zy+KhoOBVL9+.H.......vOXkKZ.....zy25iC.....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUZrwVdfHjbgM2b............................+....7Cf..vO.........7C...vO.........7Cf..vOUTET..........vO.B..8jLfv3C7gv8O.B..+vD..7iFZokOXB.......3iRpt5Oxn5p+ngpq5CT.............3yPCS7ODvtz+.VyK...........+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUZrwVdf.UZg41a............................+....7Cf..vO.........7C...vO....................+.H..7SOcZwO.B.......3C7gv8O.B..+PC.......................vOxn5p.....3ikVZ4O.B.......3Cf........+DU7DA..........+....zCyL2bOLyby.....7C...vO....+.H..zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LEbgMVY4ABQx8lakIG.........................+....7C...vOhTOR+PCsz5S2Jf6O....................+.H..7SI8h8O.B.......zSuAiO.....9r7RL8SHgK9OgEt3.....3S3gKN.....+.H..3C93g2O.B.......3Cu7vyOaE69+....7Cf........+.H..7CJ945Ol3G++.H..7SSeJO..........zy25iC.....+....7C...vOyMyL+.H..7CaMb5OYEHA9T8Fl7Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2XTXxAWZyEFHT8FcgwVY........................+....7C...vO.........7C...vO.........7Cf..vOUTET..........vO.B..9jfe3+y.cZ7O.B..+.H..7Cf..vO.B..................+.H..................7iUVdI.....+...............+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2TDakMFcx8laoMFHCgVXzQWYxA..................+....7Cf..vO.........7C...vO.........7Cf..vOUTET..........vO.B.......3C7gv8O.B............vOv.e7..........fOCMLw.....zC7vCO..........3yiO7vO.B..+7xk9A....vO.B..+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H..zSbkC6OncTv9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUcvEFHSQmbo41YyA..........................+....3C7vCuOYWfA+bvgH9CGvVvO.........7Cf..vOUTET..........vO.B..8jLfv3C7gv8O.B..+.D..7C...fO.B.......3yvCSrOgEN3+nkVZ4Cu7vyO.B.......7iVZoE.....+...............+....zCyL2rO.2AF.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2PEZo4FHPEFYfzRK9.RUyUFHWgVYkw1bg...........+z293+C...fOwONx+.H..7C...vO..............vOUTET+.H..7Cf.............3C7gv8O.B.......................3yvCSL.....+.H..7CLvG+O.B.......3ygGh3O.B..+....7Cf........+.H..7C...vOfTtZ+.H..................zimbL1O....+....7C...vOyMyL+.H..7ySRclOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2HTXtQFHPE1byAxTwUWYrMFZ....................+....7CMzR6O.........7C...vO.........7Cf..vOUTET..........vO.B.......3C7gv8O.B..+XgkV5SokZ5OkTpo..........vOCLLw.....3S5ooF.....+.H..zC7vG+O90jh+.H..7Cf........+....zCyL2bOLyby.....7C...vO.........zy25iC.....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2HUZyUFHuYFHzgVYfLTciUWahUlb................+....7yQGh3O....+LvvD+C...vO..............................vO.B.......7i.GhfOCOLw+.H..7CN3gmOvAO7.....7CO7vyOd3gG.....3ikVZ4O.B.......3Cf........+TmQHC..........+....3izO5UOLyby.....7Cf........+.H..zimbLF.....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2HTXtQFHSE1cfzRK9.RUyUFHWgVYkw1bg...........+3AVI9Cf..vO.........7C...vO....................+.H..7Cf..vO.B.......3C7gv8O.B..+.D..7C...fO.B..................+.H..7iDRO8O.B.......3Cu7vyO.B..+...............+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H..7Cf..vOeDOc9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUYwUWYtMVYfDC.............................+zwV09Cf..vO.........7C...vO.........7Cf..vOUTET..........vO.B..9Xvwn5C5838O.B..+.D..7C...fO.B............vOVXok.....7iDRO8O.B..+.H..3imd3A.....+jz.z.....vO.B..+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUYwUWYtMVYfHC.............................+nhpp9Cf..vO.........7C...vO....................+.H..7Cf..vO.B.......3izO5E.....+.H.............................+.H..7yAGh3O.B..+.H..7SJokF.....+.........vO.B..+....zCyL2bOLyby.....7C...vO....+.H..3SGZ.F.....+....7C...vOyMyL.....7SFYp4OIM.M9nLwp7Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2bjbkEFcfHTXyMG.............................+bS9f9Cf..fOVipc973CP7CGyn8O..............................vO.B.......7i.GhvO.B..+.D..7C.AknOAZPI..........vO3fGd9r7RL8CMzR6O.B.......zCszV6Od4jE+.H.......vO.B.......7CRF70Ox.lC.....7Cf.............zy25iC.....+....7C...vOyMyL.....7SFYpoOLyby9bXsh8Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2.UcxUFHSQmbo41YyA..........................+DyIVB....vO....+.H..7C...vO.........7Cf..vO.B............vO.B..8L8lX3C583M.....+.H.............................+.H..3ikVZ4O.B.......7Cf........+...............+....zC2hglO9VCK.....7C...vO.........zy25iC.....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2HUZyklamABTgQF.............................+LR597SHgK9O....+zRKs7C...vO....................+.H..7Cf..vO.B..8DtmP6SzDvM.....9L7vD+SJoo1O.B.......7yPCS7OojlZ+.H..7yQGh3O.B.......zCszV6Ocoft+.H..7Cf.............7SRc+4O2z0W+.H..7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LkPkwFayARKs3CHM8FYfbEZkUFag...............+....7CLvG+O....+.C7w+C...vO....................+.H..7Cf..vO.B..8758n3S4hIA.....973CP7iEVZ4O.B............vOd3gG.....7SHgK9O.B.......3SXgK9OaE69+3THq+Cf........+XPvr4CjL36OU3u4.....7C...vO....+.H..zSlnA7OIQTy+....7C...vOyMyL.....7SFYpoO8VpC97o0x8Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2PUYkAhPkUFHBE1byA..........................+TyXg+Cf..vO.........7C...vO....................+.H..7iQdW3O.B.......7i.GhvO.B..+.H.......................fOvCO7.....7yAGhH..........3imd3wOyvhi+.CEFC....vO.B..+.H..................7C...vO.........zy25iyOWQir+....7C...vOyMyL.....7yWZXoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2PEZkAxUuIlXrUlb............................+....7ySO7vO.........7C...vO....................+.H..7iQdW3O.B.......7i.GhvO.B............vO.B............fO3iGd.....3C7vC+O.B.......3C7vGO.....+.CEFC..........+.H..................7C...vO....+.H..zy25iyOWQir+....7C...vOyMyL.....7yWZXoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUb0UVXqA..................................+....3C7vCuOpnJp+rzRK8CPoF4O....................+.H..7Cf..vO.B..87+hX5S2JfK.....+.H..7Cf..................fOkVpo.....3CMzRK..........3SXgK9O.B..+rDjT7Cf..vO.B..+.H.......vOWzhK+.H..7C...vO....+.H..zy25iyOKg8H+....7C...vOyMyL.....7Cf..fOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUb0UVXqAhQgQG.............................+....7CMzR6O....+3gGd7C...vO.........7Cf..vOUTET..........vO.B..8vsXn4y4awK.....+zVKs7yCO7vOkUpo.....3Sqs3xOd3gG.....3C93g2O.B.......3yPCS7OEsrJ+TUUU8Cf..vO.B.......................7C...vOM8o7+.H..zyYrA+OJwoG+....7C...vOyMyL+.H..7SFYpoOLyby9LPkf9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2TDcnUlbkEFaf.UXjA..........................+....7C...fOXkHg+rzRK8SRCPyO.........7Cf..vO.B............vO.B..8jLfv3C5838O.B..+.C7w6C93gmOO9.D.....7iGd3A.....+.H..3S5oo1O.B.......7CP........+...............+....7SHsfmOM+o7+.H..7C...vO....+.H..zyhUCxODwuX+....7C...vOyMyL+.H..7ye2i9OCocr+....7Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2.EZgo2axABTgQF.............................9XMp18C...vO5.n.+.H..3SzkJ5O..............................vO.B..8vsXn4C5838O.B.......7y.CS7O.B.......7yCO7vOszRK.....7y.CSL..........3SXgK9O8b8v+fUtn8Cf........+....7iH0izOY.iA+.H..7C...vO....+.H..zyYrA+OosGX+....7C...vOyMyL+.H..7idBG0OPEsD9fdOd+Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2zTYr8FY40RdsjWK4A..........................+jz.z7iUVZ4O....93oGd7C...vO.........7Cf..vOUDnA..........vO.B..8r5jf4C5838O.B..+vCO77C...fO.B............vOKrDS.....3S3gK9O.B.......3CbvG+O.B..+nCfB.....vO.B..+.H.......vOz715+.H..7C...vO.........zy25iC.....+....7C...vOyMyL+.H..7Cf..vODEND9Ps.x7Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2zTctMFZ4ARS041XnkG.........................+bRdJ9iDRO8OOTsU+TRol5y3R.1O..............................vO.B..8nd2n9i.Gh......+7vCO7Cf..vO.B.......3SXgC9OkTpo.....7iDRO8O.B.......3C7vG+Oqwqx9bXsh8Cf.............3SyeJ+OO3AW+.H..3Cdfx4OcsF9+.H..3iJphJ.....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2PTYrk1XgQWYfLEbgMVYyA......................+....7Cf..vO....9fOd38C...vO..............fOpppp+.H..7Cf..vO.B..8jLfv3C7UpyO.B............vO.B............vO3fGd.....7SJoo1O.B.......3iEVd4OVfqT+.H..7Cf..vO.B.......7CEqRrOx2mI.....7C.........+.H..zyhUCxOLwUk+....7C...vOyMyL+.H..7CVy2gOgOrQ9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2jjbxkFcgQWYfzRK9.RSuQFHWgVYkwVH............+TyXg+Cf..vO.........7C...vO.........7Cf..vO.B.......................3C604G...............vO.B............vOojlZ.....7iGd3wO.B.......7Cf........+...............+....zCyL2bOLyby.....7C...vO.........zy25iC.....+....7C...vOyMyL+.H..7CVvz4Ox.lC9fdOd+Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LEagAGHBIWXyMG.............................+....7ySO7vO.........7C...vO.........7Cf..fOpn5p..........vO.B.......7i.GhvO.B..+.H..7SJoolOO9.D.....3CbvCuOzRKs+....................3ygGhH.....+vVCmB..........+....zCyL2bOLyby.....7C...vO.........zy25iC.....+....7C...vOyMyL+.H..3yNYQF.....8jLfv7Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2.UZvU1bf7lYf.UXmDla........................+vSIN8Cf..vO.........7C...vO.........7Cf..fOpn5p..........vO.B.......3C7gvM.....+.H.......................fOzRKs.....3SXgCN.....+.H..3SqszB.....+HCXN.....vO.B..+....zCyL2bOLyby.....7C...vO....+.H..zimbL1O1vOy+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LEcxk1Zo41YfLzasI1a........................+....3SyUU0O....+....7C...vO.........7Cf..vOUTET..........vO.B.......3C7gv8O.B............................vOojlZ.....7SKszB.....+.H..7SYkZ5O.B..8TNfn7Cf........+...............+.H..7SN+I2O.B.......zimbL1O....+....7C...vOyMyL+.H..7SFYpoOLyby9jDf37Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2bUZtQVdfzRK9.RUyUFHWgVYkw1bg...............+Pyaq+Cf..vO.........7C...vO..............vOUTET+.H..7SJxL9O.B.......zyESCB.....................+.H..7C.........+.H..7SIkZ5O.B..+.H..3C93g2O.B..+...............+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H..7Cf..vO7ThS9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2HjbusVYtABRgIGbyk1XuIGY....................+zzmx+iTRO8O.........7C...vO.........7Cf..fOpn5p..........vO.B.......3C7gv8O.B..+LzvD6imd3QORKMz..........vORH8z.....3imd3wO.B.......3iTROM.....+.CEF+Cf..vO.B..+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LEcxklamABTucWYxA..........................+....7C...vOl3G++PGs05Ss9I9O.........7Cf..vOUTET..........vO.B..8nd2n5C7gv8O.B..+rzRK4Cu7viOgEN3................+.H..................7Cf........+...............................+.H..7C...vO....+.H..zimbL1Opnpp+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUchM1atM2Xo8VcyABTgQF.....................+....7Cf..fOiKAX+....7CImx6O..............vOUTET+.H..7Cf........9fQlf5CtsX3O.B............vO.B.......7CO7vC.....+.H..7yPCS7O.B..+.H..zCbvG+O.B..+rEVBA...............7yEs3xOn3zX.....7C..............zimbL1O....+....7C...vOyMyL+.H..7Cf..vOJwoG9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2TDakMFcxkldoQWd............................+nQ0T8Cf..vO.........7C...vO..............vOUTET+.H..7Cf..vO.B..+zjBo8Cf..vO.B..+.D..7C...fO.B............fO.B.......3Cf.............3SqszxO.B..+zEn.A..........+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H.......vOwsBN9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2TjayUVahwVYfP0ckE1ZfDC.....................+....3Sqs3hOcq.t+vCO77yDxm0O.........7Cf..fOpn5p..........vO.B.......7yA0N1O.B..+.D..7C...fO.B..................+.H..3Sqs3xO.B..+.H..7Cf........+.........................fOKTMG+.H..7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..9TUUU4CD..vO.B..+....7C...vO.B..CMlaKA....fQ3MzZ....APFa0.C..bR1....2LzatQmbgIVc5oG.............................+....7CN3g2O....9HszR+C...vO.........7Cf..vOUTET..........vO.B.......3C7gv8O.B............................fOkVpo.....3SIkRJ..........3imd3A.....+Dz0YC....vO.B.......zCyL2rOpnJp+.H..7Cf.............zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2vTcygFHRU1bu4VXtMVY........................+....7yPCS7O.........7C...vO.........7Cf..fOpn5p..........vO.B.......3S1EXvO.B..+.D..7C...fOvAO7..........vO3fGd.....3S5ooF..........3SokZJ.....+DUclB..........+....zCyL2bOLyby.....7C...vO....+.H..zimbL1OtUnV+....7C...vOyMyL+.H..7SSJjlOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2HTXisVdgIGYfPjbg0VX........................+....3izRK8O....9L7vD+C...vO.........7Cf..vOUTET................8HOw.4yl+X9O.B..+.H..7iDROsOd5gG.....3CMzRK.....+.H..3ikVZ4O.B.......7Cf........+...............+.H..3iDdRuOUH.M+.H.......vO.B.......zimbL1O....+....7C...vOyMyL+.H..3SfSIhON0Hq9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2bTXxIFakARKs3CHM8FYfbEZkUFag...............+....7SYkZ5O.........7C...vO..............vOUTET+.H..7Cf.............3C7gv8OGbHh+.H.............................+.H..7CO7vyO.B..+.H..3i1Zo0O.B..+....7Cf........+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....23TZmgFcfLEZo0VakIG.........................+....7yPCS7O....+HgzS+C...vO.........7Cf..vOUTET..........vO.B..87+hX5C7gvM...............vO.B............vOojlZ.....7iDRO8O.B..+.H..7yPCSL.....+...............+....3yryByO1r3t+.H..7Cf..fOU8Hg.....zimbL1O....+....7C...vOyMyL+.H..7SNgnmOByFy9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2XTctsVdfHTchIFakMG.........................+....7Cf..vO.........7C...vO.........7Cf..vOUTET..........vO.B.......7iKHI2O.B.......7C..............3CMzRqOGbHh.....zC7vCO..........3Cu7vyO.B..9rSVj8Cf..vO.B..+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H..3i0nZmO7rKs8r45X+Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LDagM2boMFHP8Fa4ARL........................+....7iGd3wO.........7C...vO.........7Cf..fOpn5p..........vO.B.......7iC1AsOKuDS+.H..7yCO7fOs1hK.....3izRKsOgGt3+DR3h6yPCSL..........3SqszB.....+jUMD...........+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LDagM2boMFHP8Fa4AhL........................+....7iGd3wO.........7C...vO.........7Cf..fOpn5p..........vO.B.......7yCdv0O.B..+.D..7C...fO.B............vOGbHh.....3i1ZoE..........zizROM.....+fmRdB....vO.B..+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2.EZgMWYjAxPu0lXoA..........................+nhpp9C...fOM+o7+LvvD+yDxm0O.........7Cf..vOUTET..........vO.B.......3C7gvsOGdHh+.H.......fOO9.D.....3iTRS8O....+.C7w6yvCS7O.B..+.H..7SHgKN.....+.........vO.B..+....3SUORnOpppp+.H..7C...vOvzJl+.H..3SEBPC.....+....7C...vOxo5p.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2.0auIGHLE1bkIGHGUma........................+TRuX+Cf..vO.........7C...vO....................+.H..7Cf..vO.B.......3C7gvM.....................+.H.......vOCLLw.....3S3gKN..........zikVd4O.B..+.H.......vO.B..+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H.............8Xspf9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2XTcrwFHBw1a2ARKs3CHM8FYfbEZkUFag...........+....7CN3g2O....93oGd7C...vO....................+.H..7C...vO.B.......3SfSIxO.B..+.H..7Cf..vO.B.......3yvCSL.....+.H..3yxKwzO.B.......7C.........+....7Cf.............3Sk3viOpppp+.H..7C...vO.B.......zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUX2Q2auQGZfL0ar8F.........................+....7Cf..vO.........7C...vO....+.H..7Cf..vOUTET..........vO.B.......7SD5Q5O.B..+.D..7C...fO.B..................+.H..................7Cf........+...............+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H..7iRb5wOHfOv9Hjsf8Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LEbu81Z4AxSxcVXtA..........................+....7yPCS7O....9PKsz9C...vO.........7Cf..vO..............vO.B..9Hgmz6S2Jf6O.B............vO.B..................+.H..................7Cf........+.........................................vO....+.H..3iJphJ.....+....7C...vOyMyL+.H..7CJmJsOL1l79rnkT8Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2XTYkQlXgM1ZfzzajUF.........................+....7C...vO.........7C...vO.........7Cf..fOpn5p..........vO.B.......3C7gv8O.B..+TVol9CP..fO3iGd..........vOszRK.....7iGd3wO.B.......3ygGhH.....+3kSV...........+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H.......vOUUUU+....7Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2PkbkIFakAxTzIWZtc1b........................+.........vO....+vCO77C...vO.........7Cf..fOpn5p..........vO.B.......3C0BHC.....+.H.............................+.H..................7Cf........+...............+....3CozqgOGVqX.....7C...vOmcuz+.H..zimbL1OeDOc+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2TjayUVahwVYfP0ckE1ZfHC.....................+.........vO....+TVol9C...vO.........7Cf..fOpn5p..........vO.B.......7SCNUO.....+.H.............................+.H..................7Cf........+...............+.........fOpppp+.H..7iNzT8OzbR2.....zimbL1O....+....7C...vOyMyL+.H..7yQsbgOLyby9T0iD9Cf..vO.B..8.N..3iJpt5O.B..+.H..7Cf..vO.B..CMlaKA....fQ3MzZ....APFa0.C..bR1....23zaoMWdf.UZvU1b............................+3AVI9Cf..vO.........7C...vO.........7Cf..vO.B............vO.B..9Tg.z3ywXpD.....+.H..3yiO.wO....+TRolB..........+.H..3ikVZI..........3yvCS7O.B..+.........vO.B..+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H..7SFYp4OG0xE9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2PEZoM1ZfHTXyMG.............................+....7CMzR6O....93oGd7C...vO.........7Cf..vOUTET..........vO.B.......3C7gv8O.B..+.........................PORKMz.....zikVhI..........3SqszxO.B..+.SqX9Cf..vO.B..................+.H..7Cf.............zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2zTXpU1bzk1Xf.UXjA..........................+....7C...fOn2i2+vCO77yCdv0O.........7Cf..fOpn5p................8Xspf5C7gv8O.B..+.H..7Cf..vO.B............vOgDt3.....3C93gG..........7yQGhH.....8TjH.7Cf........+....3CvcfwOFDLa+.H..7C...vO.........zimbL1O....+....7C...vOyMyL+.H..7SD5QpOM+o79bFIb7Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2jjYfj0a0ABSuYWYfHTXtQFbgM2bt3hK............+nCMU+Cf..vO.........7C...vO.........7Cf..fOpn5p..........vO.B.......7iC1A8O.B..+....7C...fOXB.......3imd3gOVZok+LzvD6C7vC+O.B.......7yQGhH.....8jLfv7Cf..vO.B..+....zCyL2bOLyby.....7C...vO....+.H..zSodgwOUUUU+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LEcxklamMGHI41Xt...........................+....3yxKwzO....+7zCO7C...vO.........7Cf..vOUTET..........vO.B..9LPkf5S0aXxO.B..+.H..7Cf..vO.B.......3izRK8OzPKs.....7iFZo0O.B.......zizROM.....+7kFV9Cf.............7iGIm4OeDOc+.H..7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LEZuIGcfbUX1UFHSQmbo41YyA..................+....7Cf..vO....+.H..7C...vO....................+.H..7Cf..vO.B.......7iC1AM.....+.H.......vO.B..................+.H..................zizRO8O.B..+....7Cf........................+.H.......vO.B..+.H..zimbL1On3zX+....7C...vOyMyL+.H..3iJphJ.....9D0uv9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2jjaoQG.....................................+....7C...vO.........7C...vO.........7Cf..vOUTET..........vO.B.......3C7gvM.....+.H.............................+.H..................7Cf........+...............+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlol"/>
+    <FILTER type="volume" id="0/358b840"/>
+    <FILTER type="level" id="0/27657a"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="9117eb/306dc43" midiVProp="0.375" midiVOffset="0.3125"
+         inputDevice="" height="50.000027208452301863">
+    <FILTER type="vst" uid="646c3530" filename="D:\ProgramFiles\vst\nabla_1_2_1\nabla64.dll"
+            name="nabla64" manufacturer="Full Bucket Music" id="0/1f04960"
+            windowX="2841" windowY="-18" windowLocked="0" programNum="10"
+            state="17820.CMlaKA....fQ3IzZ....APFa0.C..bR1.....A..........................................................................................................................................................................CMlaKA....fQ3MzZ....APFa0.C..bR1....2LDagM2boMFHRUlduAxPu0lXoA..................+PyIc+CLvGuOkKlD+LvvD+CEqR7O..............vOUTUU+.H..7Cf..vO.B..8758n3i5MJ4O.B..+.D..3C93gmOvAO7..........vOojlZ.....3S5ooF..........3iTRO8O.B..+TlqFA..........+....zi0pB5O.........7C...vO.........zy25iC.....+....7C...vOyMyL+.H..7Sc3drOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2.EZgMWYjAxTzIWZtcF.........................+7ie9C....fOAOnA+.H..7C...vO.........7Cf..vOUTET..........vO.B.......3y4awK.....................................+.H.............+.H..7Cf........+...............+....3SyeJuO0uBx+.H..7C...vO....+.H..zimbL1O+X0a+....7C...vOyMyL+.H..7SFYpoOLyby9LPkf9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2HUYy8lag4FcfLUX2MG.........................+zw81+Cf..vO.........7C...vO.........7Cf..vO.B............vO.B..8758n3C7gv8O.B..+.D..7C...fO.B............vOVXok.....7iDROM..........3Cf..vOlXBZ+jz.z.....vO.B..+....zCyL2bOLyby.....7C...vO.........zy25iC.....+....7C...vOyMyL+.H..3ynu4gOUH.M9nhpn9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2PTYrk1XgQWYfPTcsIlakM2b....................+....7C...vO....9zZKt7C...vO....................+.H..7yFf.3O.B.......7iLf4...........7C...vO.B............vOzPKs.....7SKszxO.B.......3ikVdI.....+TjGO7Cf.............3ippp5O....+.H..7Cf.............zy25iC.....+....7C...vOyMyL.....7CSbUoObEN79Hgmz+Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2.EZgMWYjAhTkMFcg41YrU1b....................+....7Cf..vO.........7C...vO.........7Cf..vOUTET..........vO.B..8jLfv3C7gvM.....+.H.............................+.H..................7Cf........+...............+....zCyL2bOLyby.....7C...vO....+.H..zSeUAE.....+....7C...vOyMyL+.H..7SVARfOa9i49Hjsf8Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....23TXyQWdfLEcxklamABTrU2YyA..................+Lj1w9Cf..vO....9HszR+C...vO.........7Cf..vOUTET..........vO.B.......3C7gvM.....................+.H..zikVhoOVZok.....3iTRS8O.B.......3imd3wO.B..+.........vO.B.......zy+KhoOBVL9+.H.......vOXkKZ.....zy25iC.....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUZrwVdfHjbgM2b............................+....7Cf..vO.........7C...vO.........7Cf..vOUTET..........vO.B..8jLfv3C7gv8O.B..+vD..7iFZokOXB.......3iRpt5Oxn5p+ngpq5CT.............3yPCS7ODvtz+.VyK...........+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUZrwVdf.UZg41a............................+....7Cf..vO.........7C...vO....................+.H..7SOcZwO.B.......3C7gv8O.B..+PC.......................vOxn5p.....3ikVZ4O.B.......3Cf........+DU7DA..........+....zCyL2bOLyby.....7C...vO....+.H..zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LEbgMVY4ABQx8lakIG.........................+....7C...vOhTOR+PCsz5S2Jf6O....................+.H..7SI8h8O.B.......zSuAiO.....9r7RL8SHgK9OgEt3.....3S3gKN.....+.H..3C93g2O.B.......3Cu7vyOaE69+....7Cf........+.H..7CJ945Ol3G++.H..7SSeJO..........zy25iC.....+....7C...vOyMyL+.H..7CaMb5OYEHA9T8Fl7Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2XTXxAWZyEFHT8FcgwVY........................+....7C...vO.........7C...vO.........7Cf..vOUTET..........vO.B..9jfe3+y.cZ7O.B..+.H..7Cf..vO.B..................+.H..................7iUVdI.....+...............+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2TDakMFcx8laoMFHCgVXzQWYxA..................+....7Cf..vO.........7C...vO.........7Cf..vOUTET..........vO.B.......3C7gv8O.B............vOv.e7..........fOCMLw.....vSvCZ...........3yiO7vO.B..+7xk9A....vO.B..+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H..zSbkC6OncTv9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUcvEFHSQmbo41YyA..........................+....3C7vCuOYWfA+bvgH9CGvVvO.........7Cf..vOUTET..........vO.B..8jLfv3C7gv8O.B..+.D..7C...fO.B.......3yvCSrOgEN3+nkVZ4Cu7vyO.B.......7iVZoE.....+...............+....zCyL2rO.2AF.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2PEZo4FHPEFYfzRK9.RUyUFHWgVYkw1bg...........+fzwD9C...vO....+.H..7C...vO..............vOUTET+.H..7Cf.............3C7gv8O.B.......................3yvCSL.....+.H..7CLvG+O.B.......3ygGh3O.B..+....7Cf........+.H..7C...vOfTtZ+.H..................zimbL1O....+....7C...vOyMyL+.H..7ySRclOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2HTXtQFHPE1byAxTwUWYrMFZ....................+....7CMzR6O.........7C...vO.........7Cf..vOUTET..........vO.B.......3C7gv8O.B..+XgkV5SokZ5OkTpo..........vOCLLw.....3S5ooF.....+.H..zC7vG+O90jh+.H..7Cf........+....zCyL2bOLyby.....7C...vO.........zy25iC.....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2HUZyUFHuYFHzgVYfLTciUWahUlb................+....7yQGh3O....+LvvD+C...vO..............................vO.B.......7i.GhfOCOLw+.H..7CN3gmOvAO7.....7CO7vyOd3gG.....3ikVZ4O.B.......3Cf........+TmQHC..........+....3izO5UOLyby.....7Cf........+.H..zimbLF.....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2HTXtQFHSE1cfzRK9.RUyUFHWgVYkw1bg...........+3AVI9Cf..vO.........7C...vO....................+.H..7Cf..vO.B.......3C7gv8O.B..+.D..7C...fO.B..................+.H..7iDRO8O.B.......3Cu7vyO.B..+...............+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H..7Cf..vOeDOc9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUYwUWYtMVYfDC.............................+zwV09Cf..vO.........7C...vO.........7Cf..vOUTET..........vO.B..9Xvwn5C5838O.B..+.D..7C...fO.B............vOVXok.....7iDRO8O.B..+.H..3imd3A.....+jz.z.....vO.B..+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUYwUWYtMVYfHC.............................+nhpp9Cf..vO.........7C...vO....................+.H..7Cf..vO.B.......3izO5E.....+.H.............................+.H..7yAGh3O.B..+.H..7SJokF.....+.........vO.B..+....zCyL2bOLyby.....7C...vO....+.H..3SGZ.F.....+....7C...vOyMyL.....7SFYp4OIM.M9nLwp7Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2bjbkEFcfHTXyMG.............................+bS9f9Cf..fOVipc973CP7CGyn8O..............................vO.B.......7i.GhvO.B..+.D..7C.AknOAZPI..........vO3fGd9r7RL8CMzR6O.B.......zCszV6Od4jE+.H.......vO.B.......7CRF70Ox.lC.....7Cf.............zy25iC.....+....7C...vOyMyL.....7SFYpoOLyby9bXsh8Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2.UcxUFHSQmbo41YyA..........................+DyIVB....vO....+.H..7C...vO.........7Cf..vO.B............vO.B..8L8lX3C583M.....+.H.............................+.H..3ikVZ4O.B.......7Cf........+...............+....zC2hglO9VCK.....7C...vO.........zy25iC.....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2HUZyklamABTgQF.............................+LR597SHgK9O....+zRKs7C...vO....................+.H..7Cf..vO.B..8DtmP6SzDvM.....9L7vD+SJoo1O.B.......7yPCS7OojlZ+.H..7yQGh3O.B.......zCszV6Ocoft+.H..7Cf.............7SRc+4O2z0W+.H..7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LkPkwFayARKs3CHM8FYfbEZkUFag...............+....7CLvG+O....+.C7w+C...vO....................+.H..7Cf..vO.B..8758n3S4hIA.....973CP7iEVZ4O.B............vOd3gG.....7SHgK9O.B.......3SXgK9OaE69+3THq+Cf........+XPvr4CjL36OU3u4.....7C...vO....+.H..zSlnA7OIQTy+....7C...vOyMyL.....7SFYpoO8VpC97o0x8Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2PUYkAhPkUFHBE1byA..........................+TyXg+Cf..vO.........7C...vO....................+.H..7iQdW3O.B.......7i.GhvO.B..+.H.......................fOvCO7.....7yAGhH..........3imd3wOyvhi+.CEFC....vO.B..+.H..................7C...vO.........zy25iyOWQir+....7C...vOyMyL.....7yWZXoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2PEZkAxUuIlXrUlb............................+....7ySO7vO.........7C...vO....................+.H..7iQdW3O.B.......7i.GhvO.B............vO.B............fO3iGd.....3C7vC+O.B.......3C7vGO.....+.CEFC..........+.H..................7C...vO....+.H..zy25iyOWQir+....7C...vOyMyL.....7yWZXoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUb0UVXqA..................................+....3C7vCuOpnJp+rzRK8CPoF4O....................+.H..7Cf..vO.B..87+hX5S2JfK.....+.H..7Cf..................fOkVpo.....3CMzRK..........3SXgK9O.B..+rDjT7Cf..vO.B..+.H.......vOWzhK+.H..7C...vO....+.H..zy25iyOKg8H+....7C...vOyMyL.....7Cf..fOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUb0UVXqAhQgQG.............................+....7CMzR6O....+3gGd7C...vO.........7Cf..vOUTET..........vO.B..8vsXn4y4awK.....+zVKs7yCO7vOkUpo.....3Sqs3xOd3gG.....3C93g2O.B.......3yPCS7OEsrJ+TUUU8Cf..vO.B.......................7C...vOM8o7+.H..zyYrA+OJwoG+....7C...vOyMyL+.H..7SFYpoOLyby9LPkf9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2TDcnUlbkEFaf.UXjA..........................+....7C...fOXkHg+rzRK8SRCPyO.........7Cf..vO.B............vO.B..8jLfv3C5838O.B..+.C7w6C93gmOO9.D.....7iGd3A.....+.H..3S5oo1O.B.......7CP........+...............+....7SHsfmOM+o7+.H..7C...vO....+.H..zyhUCxODwuX+....7C...vOyMyL+.H..7ye2i9OCocr+....7Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2.EZgo2axABTgQF.............................9XMp18C...vO5.n.+.H..3SzkJ5O..............................vO.B..8vsXn4C5838O.B.......7y.CS7O.B.......7yCO7vOszRK.....7y.CSL..........3SXgK9O8b8v+fUtn8Cf........+....7iH0izOY.iA+.H..7C...vO....+.H..zyYrA+OosGX+....7C...vOyMyL+.H..7idBG0OPEsD9fdOd+Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2zTYr8FY40RdsjWK4A..........................+jz.z7iUVZ4O....93oGd7C...vO.........7Cf..vOUDnA..........vO.B..8r5jf4C5838O.B..+vCO77C...fO.B............vOKrDS.....3S3gK9O.B.......3CbvG+O.B..+nCfB.....vO.B..+.H.......vOz715+.H..7C...vO.........zy25iC.....+....7C...vOyMyL+.H..7Cf..vODEND9Ps.x7Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2zTctMFZ4ARS041XnkG.........................+bRdJ9iDRO8OOTsU+TRol5y3R.1O..............................vO.B..8nd2n9i.Gh......+7vCO7Cf..vO.B.......3SXgC9OkTpo.....7iDRO8O.B.......3C7vG+Oqwqx9bXsh8Cf.............3SyeJ+OO3AW+.H..3Cdfx4OcsF9+.H..3iJphJ.....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2PTYrk1XgQWYfLEbgMVYyA......................+....7Cf..vO....9fOd38C...vO..............fOpppp+.H..7Cf..vO.B..8jLfv3C7UpyO.B............vO.B............vO3fGd.....7SJoo1O.B.......3iEVd4OVfqT+.H..7Cf..vO.B.......7CEqRrOx2mI.....7C.........+.H..zyhUCxOLwUk+....7C...vOyMyL+.H..7CVy2gOgOrQ9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2jjbxkFcgQWYfzRK9.RSuQFHWgVYkwVH............+TyXg+Cf..vO.........7C...vO.........7Cf..vO.B.......................3C604G...............vO.B............vOojlZ.....7iGd3wO.B.......7Cf........+...............+....zCyL2bOLyby.....7C...vO.........zy25iC.....+....7C...vOyMyL+.H..7CVvz4Ox.lC9fdOd+Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LEagAGHBIWXyMG.............................+....7ySO7vO.........7C...vO.........7Cf..fOpn5p..........vO.B.......7i.GhvO.B..+.H..7SJoolOO9.D.....3CbvCuOzRKs+....................3ygGhH.....+vVCmB..........+....zCyL2bOLyby.....7C...vO.........zy25iC.....+....7C...vOyMyL+.H..3yNYQF.....8jLfv7Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2.UZvU1bf7lYf.UXmDla........................+vSIN8Cf..vO.........7C...vO.........7Cf..fOpn5p..........vO.B.......3C7gvM.....+.H.......................fOzRKs.....3SXgCN.....+.H..3SqszB.....+HCXN.....vO.B..+....zCyL2bOLyby.....7C...vO....+.H..zimbL1O1vOy+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LEcxk1Zo41YfLzasI1a........................+....3SyUU0O....+....7C...vO.........7Cf..vOUTET..........vO.B.......3C7gv8O.B............................vOojlZ.....7SKszB.....+.H..7SYkZ5O.B..8TNfn7Cf........+...............+.H..7SN+I2O.B.......zimbL1O....+....7C...vOyMyL+.H..7SFYpoOLyby9jDf37Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2bUZtQVdfzRK9.RUyUFHWgVYkw1bg...............+Pyaq+Cf..vO.........7C...vO..............vOUTET+.H..7SJxL9O.B.......zyESCB.....................+.H..7C.........+.H..7SIkZ5O.B..+.H..3C93g2O.B..+...............+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H..7Cf..vO7ThS9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2HjbusVYtABRgIGbyk1XuIGY....................+zzmx+iTRO8O.........7C...vO.........7Cf..fOpn5p..........vO.B.......3C7gv8O.B..+LzvD6imd3QORKMz..........vORH8z.....3imd3wO.B.......3iTROM.....+.CEF+Cf..vO.B..+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LEcxklamABTucWYxA..........................+....7C...vOl3G++PGs05Ss9I9O.........7Cf..vOUTET..........vO.B..8nd2n5C7gv8O.B..+rzRK4Cu7viOgEN3................+.H..................7Cf........+...............................+.H..7C...vO....+.H..zimbL1Opnpp+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUchM1atM2Xo8VcyABTgQF.....................+....7Cf..fOiKAX+....7CImx6O..............vOUTET+.H..7Cf........9fQlf5CtsX3O.B............vO.B.......7CO7vC.....+.H..7yPCS7O.B..+.H..zCbvG+O.B..+rEVBA...............7yEs3xOn3zX.....7C..............zimbL1O....+....7C...vOyMyL+.H..7Cf..vOJwoG9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2TDakMFcxkldoQWd............................+nQ0T8Cf..vO.........7C...vO..............vOUTET+.H..7Cf..vO.B..+zjBo8Cf..vO.B..+.D..7C...fO.B............fO.B.......3Cf.............3SqszxO.B..+zEn.A..........+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H.......vOwsBN9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2TjayUVahwVYfP0ckE1ZfDC.....................+....3Sqs3hOcq.t+vCO77yDxm0O.........7Cf..fOpn5p..........vO.B.......7yA0N1O.B..+.D..7C...fO.B..................+.H..3Sqs3xO.B..+.H..7Cf........+.........................fOKTMG+.H..7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..9TUUU4CD..vO.B..+....7C...vO.B..CMlaKA....fQ3MzZ....APFa0.C..bR1....2LzatQmbgIVc5oG.............................+....7CN3g2O....9HszR+C...vO.........7Cf..vOUTET..........vO.B.......3C7gv8O.B............................fOkVpo.....3SIkRJ..........3imd3A.....+Dz0YC....vO.B.......zCyL2rOpnJp+.H..7Cf.............zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2vTcygFHRU1bu4VXtMVY........................+....7yPCS7O.........7C...vO.........7Cf..fOpn5p..........vO.B.......3S1EXvO.B..+.D..7C...fOvAO7..........vO3fGd.....3S5ooF..........3SokZJ.....+DUclB..........+....zCyL2bOLyby.....7C...vO....+.H..zimbL1OtUnV+....7C...vOyMyL+.H..7SSJjlOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2HTXisVdgIGYfPjbg0VX........................+....3izRK8O....9L7vD+C...vO.........7Cf..vOUTET................8HOw.4yl+X9O.B..+.H..7iDROsOd5gG.....3CMzRK.....+.H..3ikVZ4O.B.......7Cf........+...............+.H..3iDdRuOUH.M+.H.......vO.B.......zimbL1O....+....7C...vOyMyL+.H..3SfSIhON0Hq9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2bTXxIFakARKs3CHM8FYfbEZkUFag...............+....7SYkZ5O.........7C...vO..............vOUTET+.H..7Cf.............3C7gv8OGbHh+.H.............................+.H..7CO7vyO.B..+.H..3i1Zo0O.B..+....7Cf........+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....23TZmgFcfLEZo0VakIG.........................+....7yPCS7O....+HgzS+C...vO.........7Cf..vOUTET..........vO.B..87+hX5C7gvM...............vO.B............vOojlZ.....7iDRO8O.B..+.H..7yPCSL.....+...............+....3yryByO1r3t+.H..7Cf..fOU8Hg.....zimbL1O....+....7C...vOyMyL+.H..7SNgnmOByFy9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2XTctsVdfHTchIFakMG.........................+....7Cf..vO.........7C...vO.........7Cf..vOUTET..........vO.B.......7iKHI2O.B.......7C..............3CMzRqOGbHh.....zC7vCO..........3Cu7vyO.B..9rSVj8Cf..vO.B..+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H..3i0nZmO7rKs8r45X+Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LDagM2boMFHP8Fa4ARL........................+....7iGd3wO.........7C...vO.........7Cf..fOpn5p..........vO.B.......7iC1AsOKuDS+.H..7yCO7fOs1hK.....3izRKsOgGt3+DR3h6yPCSL..........3SqszB.....+jUMD...........+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LDagM2boMFHP8Fa4AhL........................+....7iGd3wO.........7C...vO.........7Cf..fOpn5p..........vO.B.......7yCdv0O.B..+.D..7C...fO.B............vOGbHh.....3i1ZoE..........zizROM.....+fmRdB....vO.B..+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2.EZgMWYjAxPu0lXoA..........................+nhpp9C...fOM+o7+LvvD+yDxm0O.........7Cf..vOUTET..........vO.B.......3C7gvsOGdHh+.H.......fOO9.D.....3iTRS8O....+.C7w6yvCS7O.B..+.H..7SHgKN.....+.........vO.B..+....3SUORnOpppp+.H..7C...vOvzJl+.H..3SEBPC.....+....7C...vOxo5p.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2.0auIGHLE1bkIGHGUma........................+TRuX+Cf..vO.........7C...vO....................+.H..7Cf..vO.B.......3C7gvM.....................+.H.......vOCLLw.....3S3gKN..........zikVd4O.B..+.H.......vO.B..+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H.............8Xspf9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2XTcrwFHBw1a2ARKs3CHM8FYfbEZkUFag...........+....7CN3g2O....93oGd7C...vO....................+.H..7C...vO.B.......3SfSIxO.B..+.H..7Cf..vO.B.......3yvCSL.....+.H..3yxKwzO.B.......7C.........+....7Cf.............3Sk3viOpppp+.H..7C...vO.B.......zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LUX2Q2auQGZfL0ar8F.........................+....7Cf..vO.........7C...vO....+.H..7Cf..vOUTET..........vO.B.......7SD5Q5O.B..+.D..7C...fO.B..................+.H..................7Cf........+...............+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H..7iRb5wOHfOv9Hjsf8Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LEbu81Z4AxSxcVXtA..........................+....7yPCS7O....9PKsz9C...vO.........7Cf..vO..............vO.B..9Hgmz6S2Jf6O.B............vO.B..................+.H..................7Cf........+.........................................vO....+.H..3iJphJ.....+....7C...vOyMyL+.H..7CJmJsOL1l79rnkT8Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2XTYkQlXgM1ZfzzajUF.........................+....7C...vO.........7C...vO.........7Cf..fOpn5p..........vO.B.......3C7gv8O.B..+TVol9CP..fO3iGd..........vOszRK.....7iGd3wO.B.......3ygGhH.....+3kSV...........+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H.......vOUUUU+....7Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2PkbkIFakAxTzIWZtc1b........................+.........vO....+vCO77C...vO.........7Cf..fOpn5p..........vO.B.......3C0BHC.....+.H.............................+.H..................7Cf........+...............+....3CozqgOGVqX.....7C...vOmcuz+.H..zimbL1OeDOc+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2TjayUVahwVYfP0ckE1ZfHC.....................+.........vO....+TVol9C...vO.........7Cf..fOpn5p..........vO.B.......7SCNUO.....+.H.............................+.H..................7Cf........+...............+.........fOpppp+.H..7iNzT8OzbR2.....zimbL1O....+....7C...vOyMyL+.H..7yQsbgOLyby9T0iD9Cf..vO.B..8.N..3iJpt5O.B..+.H..7Cf..vO.B..CMlaKA....fQ3MzZ....APFa0.C..bR1....23zaoMWdf.UZvU1b............................+3AVI9Cf..vO.........7C...vO.........7Cf..vO.B............vO.B..9Tg.z3ywXpD.....+.H..3yiO.wO....+TRolB..........+.H..3ikVZI..........3yvCS7O.B..+.........vO.B..+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL+.H..7SFYp4OG0xE9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2PEZoM1ZfHTXyMG.............................+....7CMzR6O....93oGd7C...vO.........7Cf..vOUTET..........vO.B.......3C7gv8O.B..+.........................PORKMz.....zikVhI..........3SqszxO.B..+.SqX9Cf..vO.B..................+.H..7Cf.............zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2zTXpU1bzk1Xf.UXjA..........................+....7C...fOn2i2+vCO77yCdv0O.........7Cf..fOpn5p................8Xspf5C7gv8O.B..+.H..7Cf..vO.B............vOgDt3.....3C93gG..........7yQGhH.....8TjH.7Cf........+....3CvcfwOFDLa+.H..7C...vO.........zimbL1O....+....7C...vOyMyL+.H..7SD5QpOM+o79bFIb7Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2jjYfj0a0ABSuYWYfHTXtQFbgM2bt3hK............+nCMU+Cf..vO.........7C...vO.........7Cf..fOpn5p..........vO.B.......7iC1A8O.B..+....7C...fOXB.......3imd3gOVZok+LzvD6C7vC+O.B.......7yQGhH.....8jLfv7Cf..vO.B..+....zCyL2bOLyby.....7C...vO....+.H..zSodgwOUUUU+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LEcxklamMGHI41Xt...........................+....3yxKwzO....+7zCO7C...vO.........7Cf..vOUTET..........vO.B..9LPkf5S0aXxO.B..+.H..7Cf..vO.B.......3izRK8OzPKs.....7iFZo0O.B.......zizROM.....+7kFV9Cf.............7iGIm4OeDOc+.H..7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2LEZuIGcfbUX1UFHSQmbo41YyA..................+....7Cf..vO....+.H..7C...vO....................+.H..7Cf..vO.B.......7iC1AM.....+.H.......vO.B..................+.H..................zizRO8O.B..+....7Cf........................+.H.......vO.B..+.H..zimbL1On3zX+....7C...vOyMyL+.H..3iJphJ.....9D0uv9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlolCMlaKA....fQ3MzZ....APFa0.C..bR1....2jjaoQG.....................................+....7C...vO.........7C...vO.........7Cf..vOUTET..........vO.B.......3C7gvM.....+.H.............................+.H..................7Cf........+...............+....zCyL2bOLyby.....7C...vO.........zimbL1O....+....7C...vOyMyL.....7SFYpoOLyby9jYlZ9Cf..vO.B..8XatL4i9OasOYlol8TmvO1ScB+nOYlol"/>
+    <FILTER type="volume" id="0/34fbf4b"/>
+    <FILTER type="level" id="0/10d7df"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="9117eb/1b92293" midiVProp="0.375" midiVOffset="0.3125"
+         height="50.000027208452301863">
+    <FILTER type="vst" uid="61706c73" filename="D:\ProgramFiles\vst\Ample Bass\ABPL2.dll"
+            name="ABPL2" manufacturer="Ample Sound" id="0/1dc3d29" windowX="525"
+            windowY="350" windowLocked="0" programNum="0" state="3065.CMlaKA....fQBMDZ....ADFbrMG.BLP.....A.............................................................................................................................................................................vBYY0PxDBTK...7DTQB80TTEDUEAhSg0VY8HBQkYVX0wFch3COAIGcoMVcrEFco8lafXUXrUWY8HxT0MmHu3COP81boQWZu4FHVEFa0UVOh.iHu3COTElXs.UXzgFHVEFa0UVOhLjNbU0bkI2bbMWdpICMbQzaiUWak4FcywUPsAGakAxTuUmajwEUgI1bbITXyMGWAIDTL4xYvQiHu3COLEVdkIGHIQTOhDiHfXUXrUWY8HhMzHxK9vyPu4Fcx8FafjDQ8HhLh.BTgIWXsUFckIWOhzTKPkFcigFHBUlajIxK9vyPu4Fcx8FafjDQ8HBMh.BTgIWXsUFckIWOhzTKVklXxEFcuIxK9vyPu4Fcx8FafjDQ8HRMh.BTgIWXsUFckIWOhzTKFEDHGEVZtIxK9vyPu4Fcx8FafjDQ8HRLvHBHPElbg0VYzUlb8HRSgMGckIGHV8Fah7hO7LzatQmbuwFHIQTOhDyLh.BTgIWXsUFckIWOh.UXtIxK9vyPu4Fcx8FafjDQ8HhM2HBHPElbg0VYzUlb8HBRuwFYf.UYjEFafP0amIxK9vCTgIWXsUFckIGHNEVak0iHME1bzUlbfX0arIBHVEFa0UVOhDiHu3COPElbg0VYzUlbf3TXsUVOh.UXtIBHVEFa0UVOh.iHu3COPElbg0VYzUlbf3TXsUVOhLEagAGHV8FafHUXzk1ah.hUgwVck0iHwHxK9vCTgIWXsUFckIGHNEVak0iHM0hP0omdfXjbkEmHfXUXrUWY8HhLvHxK9vCTgIWXsUFckIGHNEVak0iHM0hP0omdfP0amcFakIBHVEFa0UVOh.iHu3COPElbg0VYzUlbf3TXsUVOhzTKAM1XfXjbkEmHfXUXrUWY8HhLvHxK9vCTgIWXsUFckIGHNEVak0iHM0RPiMFHT81YmwVYh.hUgwVck0iHvHxK9vCTgIWXsUFckIGHNEVak0iHM0hTkwFHGEVZtIBHVEFa0UVOh.iK0HxK9vCTgIWXsUFckIGHNEVak0iHM0hQ3AxQgklah.hUgwVck0iHwHxK9vCTgIWXsUFckIGHNEVak0iHM0RPiMFHGEVZtIBHVEFa0UVOh.iK0HxK9vCTgIWXsUFckIGHNEVak0iHM0hQAAxQgklah.hUgwVck0iHv3RMh7hO7.UXxEVakQWYxAhSg0VY8HRSsXjTfbTXo4lHfXUXrUWY8HRLh7hO7.UXxEVakQWYxAhSg0VY8HRSsXjbkQGHS8VctQlHfXUXrUWY8HRLh7hO7.UXxEVakQWYxAhSg0VY8HRSsXTXjUFHI4lHfXUXrUWY8HBLh7hO7.UXxEVakQWYxAhSg0VY8HRSsLEcgIGcfPUZsUlHfXUXrUWY8HxL0HxK9vCTgIWXsUFckIGHNEVak0iHM0xPgA2ah.hUgwVck0iHvHxK9vCTgIWXsUFckIGHNEVak0iHM0BToQ2XnAhPk4FYh.hUgwVck0iHvHxK9vCTgIWXsUFckIGHNEVak0iHM0hUoIlbgQ2ah.hUgwVck0iHvHxK9vCTgIWXsUFckIGHNEVak0iHT0xT441XfP0amcFakIBHVEFa0UVOhDiHu3COPElbg0VYzUlbf3TXsUVOhPUKL81avABUuc1YrUlHfXUXrUWY8HBLh7hO7.UXxEVakQWYxAhSg0VY8HBUsXUYrABTx8Fbh.hUgwVck0iH4HxK9vCTgIWXsUFckIGHNEVak0iHT0hUkwFHHUWah.hUgwVck0iHvHxK9vCTgIWXsUFckIGHNEVak0iHT0xT2klamIBHVEFa0UVOh.iHu3COPElbg0VYzUlbf3TXsUVOhPUKDUmbgQWZu4lHfXUXrUWY8HRNh7hO7.UXxEVakQWYxAhSg0VY8HxTzIGHz.BU04VYxIBHVEFa0UVOh.iHu3COPElbg0VYzUlbf3TXsUVOhLEcxAxLfPUctUlbh.hUgwVck0iHvHxK9vCTgIWXsUFckIGHNEVak0iHSQmbfHCHTUmakImHfXUXrUWY8HBLh7hO7.UXxEVakQWYxAhSg0VY8HxTzIGHw.BU04VYxIBHVEFa0UVOh.iHu3COPElbg0VYzUlbf3TXsUVOh7Dbk4FHSQmbfXTZxMGch.hUgwVck0iHvHxK9vCTgIWXsUFckIGHNEVak0iHH8FajABTkQVXrABUuclHfXUXrUWY8HBLh7hO7.UXxEVakQWYxAhSg0VY8HBTrEVdfzzajUlHfXUXrUWY8HBLh7hO7.UXxEVakQWYxAhSg0VY8HRP0Q2afvTYmEFcuIBHVEFa0UVOh.iHu3COPElbg0VYzUlbf3TXsUVOhHTYtQFHRElamUlHfXUXrUWY8HhLh7hO7.UXxEVakQWYxAhSg0VY8HBTuwVdfHTYtQVYxABUuclHfXUXrUWY8HBLh7hO7.UXxEVakQWYxAhSg0VY8HRSuQFHRElamUlHfXUXrUWY8HBLtTiHu3COPElbg0VYzUlbf3TXsUVOhDTcz8FHM8FYfP0amIBHVEFa0UVOh.iHu3COPElbg0VYzUlbf3TXsUVOhLTdiwVYfzzajUFHScWZzMFZh.hUgwVck0iHvHxK9vCTgIWXsUFckIGHNEVak0iHCk2XrUFHPwVcyABUuclHfXUXrUWY8HBLh7hO7.UXxEVakQWYxAhSg0VY8HBTkQVXrAhSuk1bkABUuclHfXUXrUWY8HRLh7hO7.UXxEVakQWYxAhSg0VY8HRSoQVZfbTcoQWXxABUuclHfXUXrUWY8HBLh7hO7.UXxEVakQWYxAhSg0VY8HhS00FHH81bzABTgIWXsMmHfXUXrUWY8HBLh7hO7.UXxEVakQWYxAhSg0VY8HBUs.EagkGHT81YmwVYh.hUgwVck0iHvHxK9vCTgIWXsUFckIGHNEVak0iHT0BTrEVdhE1XqABUuc1YrUlHfXUXrUWY8HBLh7hO7.UXxEVakQWYxAhSg0VY8HBUsPkbgM1ZfjjajUFdh.hUgwVck0iHvHxK9vCTgIWXsUFckIGHNEVak0iHME1bzUlbfPUctUlHfXUXrUWY8HBMz.iHu3COPElbg0VYzUlbf3TXsUVOhzTRDkDHOUGch.hUgwVck0iHvHxK9vCTgIWXsUFckIGHNEVak0iHMEFdfX0aoMVYyIBHVEFa0UVOhXCMh7hO7.UXxEVakQWYxAhSg0VY8HhUkwFHSUlaykFcoYWZzkmHfXUXrUWY8HRLv.iHu3COPElbg0VYzUlbf3TXsUVOh7Dbk4FHSQmbo41YfPiHfXUXrUWY8HRLh7hO7.UXxEVakQWYxAhSg0VY8HxSvUlafLEcxklamAxLh.hUgwVck0iHwHxK9vCTgIWXsUFckIGHNEVak0iHOAWYtAxTzIWZtcFHxHBHVEFa0UVOhDiHu3COPElbg0VYzUlbf3TXsUVOh7Dbk4FHSQmbo41YfDiHfXUXrUWY8HRLh7hO7.UXxEVakQWYxAhSg0VY8HRSoQVZfbTcoQWXxAxTzIGMh.hUgwVck0iHyHxK9vCTgIWXsUFckIGHNEVak0iHMkFYoAxQ0kFcgIGHSQmbyHBHVEFa0UVOhHiHu3COPElbg0VYzUlbf3TXsUVOhzTZjkFHGUWZzElbfLEcxIiHfXUXrUWY8HRLh7hO7.UXxEVakQWYxAhSg0VY8HRSoQVZfbTcoQWXxAxTzIWLh.hUgwVck0iHvHxK9vCQB4TXsUFHVEFa0UVOhDjPPwjLFclHu3COTUmak0BTgQGZfXUXrUWY8HxP5vUUyUlbyw0b4olLzvEQuMVcsUlazMGWA0FbrUFHS8VctQFWAIDTLICWTUmakwEU04VYeQTYlEVcrQmKAIDTLIiQmIxK9vyKAUjPeMEUAQUQ9.."/>
+    <FILTER type="volume" id="0/35f4aa0"/>
+    <FILTER type="level" id="0/79fd53"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="9117eb/3f0dcdc" midiVProp="0.375" midiVOffset="0.3125"
+         inputDevice="" height="50.000027208452301863">
+    <FILTER type="vst" uid="6c496763" filename="D:\ProgramFiles\vst\Sonatina_Orchestra_Module_-_64\Sonatina Orchestra.dll"
+            name="Sonatina Orchestra" manufacturer="bigcat" id="0/151ddf4"
+            windowX="340" windowY="100" windowLocked="0" programNum="18"
+            state="1363.CMlaKA....fQBMDZ....AvVRmMF....5...................................................................................................................................................................................AypGHs.xTu4VXzklagABToElau4RayUF.DwJ..PDq..P.....A................A....D...f.....................DyLa.C..........A....D........DP...........z++++.....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................D..........................A............................................X4P.....7G...ve.........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................."/>
+    <FILTER type="volume" id="0/1d5f09e"/>
+    <FILTER type="level" id="0/245d107"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="9117eb/2133a23" midiVProp="0.375" midiVOffset="0.3125"
+         height="50.000027208452301863">
+    <FILTER type="vst" uid="504c4751" filename="D:\ProgramFiles\vst\sforzando\VST\sforzando VST_x64.dll"
+            name="sforzando VST_x64" manufacturer="Plogue Art et Technologie, Inc"
+            id="0/3b7417e" windowX="340" windowY="111" windowLocked="0" programNum="0"
+            state="426.CMlaKA....fQBMDZ....A.ESGEE...P...................................................................................................................................................................................P.JLTQGA0iA...3wYUP1sSCCCCE9dj3cvx2yVKLFZRMLUXHTunhKJ7.3l5MEQ9AZSpFu83U1lF4pjOae7Imh06cVXj6GLAuBymkgv5Gu9phxdC0Pi7E0Vs7AD9pOzkzwpMBHKeAJ8BxongiQie2.7chrl3ORYDFh8L4DrBu6VDbz9lIRo0Fz0Oov6yEbc0lp2Rw5PGOMEkhAGEkk1XCQElcIxxirUgFuncxw9HBVyH+2vRmCZQCwWxExRBJGtA3ClZ1f1dD+rLG2qvkx.6rgVx9dxOYSAL+zW5ksaYc7fG.S2+E2SNYcktVC60LBsj+yptiQxkQ1hUSQl9r+Nq9qeTM8nX9onVd76q8f2B"/>
+    <FILTER type="volume" id="0/238bdcb"/>
+    <FILTER type="level" id="0/aa1458"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+</EDIT>
